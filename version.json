@@ -1,0 +1,5 @@
+{
+  "version": "1.0.2",
+  "apkUrl": "https://github.com/4d3l/dunes-updates/releases/download/v1.0.2/dunes_v1.0.2.apk",
+  "releaseNotes": "Reverted heartbeat to ultra-fast 20s for maximum P2P reliability!"
+}
