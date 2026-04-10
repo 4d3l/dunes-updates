@@ -1,5 +1,5 @@
 {
-  "version": "1.0.3",
-  "apkUrl": "https://github.com/4d3l/dunes-updates/releases/download/v1.0.3/dunes_v71_unified_ui.apk",
-  "releaseNotes": "Unified the update UI across the app and restored real-time progress bar!"
+  "version": "1.0.4",
+  "apkUrl": "https://github.com/4d3l/dunes-updates/releases/download/v1.0.4/dunes_v74_ota_payload.apk",
+  "releaseNotes": "Fixing the infinite update loop!"
 }
