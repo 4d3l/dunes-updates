@@ -1,5 +1,5 @@
 {
-  "version": "1.0.6",
-  "apkUrl": "https://github.com/4d3l/dunes-updates/releases/download/v1.0.6/dunes_v78_battery_fix_1.0.6.apk",
-  "releaseNotes": "MASSIVE UPGRADE: Re-architected connection service. WebSockets now utilize server-side Native TCP polling to keep connections alive infinitely in the background with near-zero battery consumption and no processor wake-locks!"
+  "version": "1.0.7",
+  "apkUrl": "https://github.com/4d3l/dunes-updates/releases/download/v1.0.7/dunes_v79_voice_1.0.7.apk",
+  "releaseNotes": "added voice calling!"
 }
