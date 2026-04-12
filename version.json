@@ -1,5 +1,11 @@
 {
-  "version": "1.0.8",
-  "apkUrl": "https://github.com/4d3l/dunes-updates/releases/download/v1.0.8/dunes_v80_voice_1.0.8.apk",
-  "releaseNotes": "added voice calling!"
+  "version": "1.0.9",
+  "apkUrl": "https://github.com/4d3l/dunes-updates/releases/download/v1.0.9/dunes_v1.0.9_relay_fix.apk",
+  "releaseNotes": "🔴 Relay zombie loop	Added isConnecting ref — skips duplicate connectRelay calls while a socket is already connecting. Added allHeartbeatTimers Set — clears all timers on reconnect, not just the last one. Fixed heartbeat to only reconnect on readyState === 3 (CLOSED), not 0 (CONNECTING).
+🔴 Dependency chain	closeVoicePc now uses localAudioStreamRef.current (stable ref) instead of localAudioStream (state), breaking the rebuild chain → handleIncomingSignal → connectRelay.
+🌐 TURN servers	Replaced openrelay.metered.ca → global.relay.metered.ca with TCP fallback + Cloudflare STUN + iceCandidatePoolSize: 4 for both data and voice connections.
+📍 IP + Flag	Settings → NETWORK now shows your public IP and country flag (e.g. 203.x.x.x · United Arab Emirates 🇦🇪).
+🔔 Ringtone	Incoming calls now play a bundled ringtone MP3 + vibration pattern. Stops automatically on answer/reject.
+⚙️ Tone picker	Settings → NETWORK → "Notification & Ringtone Sounds" opens Android's native OS sound picker for Dunes' notification channel.
+"
 }
