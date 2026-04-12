@@ -1,5 +1,5 @@
 {
-  "version": "1.1.4",
-  "apkUrl": "https://github.com/4d3l/dunes-updates/releases/download/v1.1.4/dunes_v1.1.4_final_fix.apk",
-  "releaseNotes": "v1.1.4: Huge stabilization update. Fixed voice call wake-screen, proximity sensor, echo cancellation, TURN relay reliability, and VPN auto-reconnect logic."
+  "version": "1.1.5",
+  "apkUrl": "https://github.com/4d3l/dunes-updates/releases/download/v1.1.5/dunes_v1.1.5_settings_fix.apk",
+  "releaseNotes": "v1.1.5 Hotfix: Resolved crash when opening Settings. Includes full v1.1.4 feature set: Screen wake on call, proximity sensor, echo cancellation, and network auto-heal."
 }
