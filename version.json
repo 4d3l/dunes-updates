@@ -1,5 +1,5 @@
 {
-  "version": "1.1.6",
-  "apkUrl": "https://github.com/4d3l/dunes-updates/releases/download/v1.1.6/dunes_v1.1.6_debugged.apk",
-  "releaseNotes": "v1.1.6: Major stability release. Fixes voice calls (all networks), busy signal logic, Bluetooth audio routing, relay flickering, IPv4 forced detection, and sound preview bugs."
+  "version": "1.1.7",
+  "apkUrl": "https://github.com/4d3l/dunes-updates/releases/download/v1.1.7/dunes_v1.1.7_final_fix.apk",
+  "releaseNotes": "v1.1.7: Fixed call establishment on WiFi, screen wake-on-call for Android, relay disconnection loops, and proximity sensor reliability."
 }
