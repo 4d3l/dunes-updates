@@ -1,5 +1,5 @@
 {
-  "version": "1.2.3",
-  "apkUrl": "https://github.com/4d3l/dunes-updates/releases/download/v1.2.3/dunes_v1.2.3.apk",
-  "releaseNotes": "v1.2.3: Fixed call ended notification, seekable waveform with speed toggle, transfer progress %, ringtone settings + silent/vibrate modes, fixed text bubble layout, and fixed factory reset countdown."
+  "version": "1.2.4",
+  "apkUrl": "https://github.com/4d3l/dunes-updates/releases/download/v1.2.4/dunes_v1.2.4.apk",
+  "releaseNotes": "v1.2.4: Fixed major settings screen crash, restored stable bubble layout, and improved waveform visibility with explicit sizing."
 }
