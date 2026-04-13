@@ -1,5 +1,5 @@
 {
-  "version": "1.2.2",
-  "apkUrl": "https://github.com/4d3l/dunes-updates/releases/download/v1.2.2/dunes_v1.2.2.apk",
-  "releaseNotes": "v1.2.2: Fixed Arabic text truncation, MP3 playback on receiver, waveform visibility, relay disconnects during large transfers, and reduced call echo."
+  "version": "1.2.3",
+  "apkUrl": "https://github.com/4d3l/dunes-updates/releases/download/v1.2.3/dunes_v1.2.3.apk",
+  "releaseNotes": "v1.2.3: Fixed call ended notification, seekable waveform with speed toggle, transfer progress %, ringtone settings + silent/vibrate modes, fixed text bubble layout, and fixed factory reset countdown."
 }
