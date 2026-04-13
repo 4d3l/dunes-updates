@@ -1,5 +1,5 @@
 {
-  "version": "1.1.7",
-  "apkUrl": "https://github.com/4d3l/dunes-updates/releases/download/v1.1.7/dunes_v1.1.7_final_fix.apk",
-  "releaseNotes": "v1.1.7: Fixed call establishment on WiFi, screen wake-on-call for Android, relay disconnection loops, and proximity sensor reliability."
+  "version": "1.2.0",
+  "apkUrl": "https://github.com/4d3l/dunes-updates/releases/download/v1.2.0/dunes_v1.2.0.apk",
+  "releaseNotes": "v1.2.0: Major UX Update. Multi-message forwarding, voice note waveforms, calling ring-back tones, busy signals, and Factory Reset."
 }
