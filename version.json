@@ -1,5 +1,5 @@
 {
-  "version": "1.2.4",
-  "apkUrl": "https://github.com/4d3l/dunes-updates/releases/download/v1.2.4/dunes_v1.2.4.apk",
-  "releaseNotes": "v1.2.4: Fixed major settings screen crash, restored stable bubble layout, and improved waveform visibility with explicit sizing."
+  "version": "1.2.5",
+  "apkUrl": "https://github.com/4d3l/dunes-updates/releases/download/v1.2.5/dunes_v1.2.5.apk",
+  "releaseNotes": "v1.2.5: WhatsApp-style bubble alignment, fixed factory reset (reliable exit), media pause on calls, realistic audio waveforms, and file receipt progress bars."
 }
