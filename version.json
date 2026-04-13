@@ -1,5 +1,5 @@
 {
-  "version": "1.2.0",
-  "apkUrl": "https://github.com/4d3l/dunes-updates/releases/download/v1.2.0/dunes_v1.2.0.apk",
-  "releaseNotes": "v1.2.0: Major UX Update. Multi-message forwarding, voice note waveforms, calling ring-back tones, busy signals, and Factory Reset."
+  "version": "1.2.2",
+  "apkUrl": "https://github.com/4d3l/dunes-updates/releases/download/v1.2.2/dunes_v1.2.2.apk",
+  "releaseNotes": "v1.2.2: Fixed Arabic text truncation, MP3 playback on receiver, waveform visibility, relay disconnects during large transfers, and reduced call echo."
 }
