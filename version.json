@@ -1,5 +1,5 @@
 {
-  "version": "1.2.5",
-  "apkUrl": "https://github.com/4d3l/dunes-updates/releases/download/v1.2.5/dunes_v1.2.5.apk",
-  "releaseNotes": "v1.2.5: WhatsApp-style bubble alignment, fixed factory reset (reliable exit), media pause on calls, realistic audio waveforms, and file receipt progress bars."
+  "version": "1.2.6",
+  "apkUrl": "https://github.com/4d3l/dunes-updates/releases/download/v1.2.6/dunes_v1.2.6.apk",
+  "releaseNotes": "v1.2.6: Fix audio replay/seeking, factory reset (native nuke), dark themed delete contact with media option, call ringing ACK, call logging, and Bluetooth audio detection."
 }
