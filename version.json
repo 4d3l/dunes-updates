@@ -1,5 +1,8 @@
 {
-  "version": "1.2.6",
-  "apkUrl": "https://github.com/4d3l/dunes-updates/releases/download/v1.2.6/dunes_v1.2.6.apk",
-  "releaseNotes": "v1.2.6: Fix audio replay/seeking, factory reset (native nuke), dark themed delete contact with media option, call ringing ACK, call logging, and Bluetooth audio detection."
+  "version": "1.2.7",
+  "versionCode": 22,
+  "lastUpdated": "2026-04-14",
+  "buildType": "release",
+  "apkUrl": "https://github.com/4d3l/dunes-updates/releases/download/v1.2.7/dunes_v1.2.7.apk",
+  "releaseNotes": "v1.2.7: Fix call signaling, native file chunking/aborting, and deep factory reset."
 }
