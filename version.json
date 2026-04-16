@@ -1,8 +1,8 @@
 {
-  "version": "1.2.7",
-  "versionCode": 22,
-  "lastUpdated": "2026-04-14",
+  "version": "1.2.8",
+  "versionCode": 23,
+  "lastUpdated": "2026-04-16",
   "buildType": "release",
-  "apkUrl": "https://github.com/4d3l/dunes-updates/releases/download/v1.2.7/dunes_v1.2.7.apk",
-  "releaseNotes": "v1.2.7: Fix call signaling, native file chunking/aborting, and deep factory reset."
+  "apkUrl": "https://github.com/4d3l/dunes-updates/releases/download/v1.2.8/dunes_v1.2.8.apk",
+  "releaseNotes": "v1.2.8: Fixed UI theme consistency, factory reset hang, notification sounds, deletion reliability, and WebRTC stability."
 }
