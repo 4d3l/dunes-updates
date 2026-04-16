@@ -1,8 +1,8 @@
 {
-  "version": "1.2.8",
-  "versionCode": 23,
+  "version": "1.2.9",
+  "versionCode": 24,
   "lastUpdated": "2026-04-16",
   "buildType": "release",
-  "apkUrl": "https://github.com/4d3l/dunes-updates/releases/download/v1.2.8/dunes_v1.2.8.apk",
-  "releaseNotes": "v1.2.8: Fixed UI theme consistency, factory reset hang, notification sounds, deletion reliability, and WebRTC stability."
+  "apkUrl": "https://github.com/4d3l/dunes-updates/releases/download/v1.2.9/dunes_v1.2.9.apk",
+  "releaseNotes": "v1.2.9: Deep Stability update. Fixed ghost ringing, native factory reset hangs, and Android 12+ background persistence."
 }
