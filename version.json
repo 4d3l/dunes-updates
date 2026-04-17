@@ -1,8 +1,8 @@
 {
-  "version": "1.2.13",
-  "versionCode": 28,
+  "version": "1.2.11",
+  "versionCode": 26,
   "lastUpdated": "2026-04-17",
   "buildType": "release",
-  "apkUrl": "https://github.com/4d3l/dunes-updates/releases/download/v1.2.13/dunes_v1.2.13.apk",
-  "releaseNotes": "v1.2.13: Permanent fix for background connectivity. Guardian native Handler loop (25s) with DeviceEventEmitter integration. Bypasses Hermes JS suspension with native-to-JS poke mechanism."
+  "apkUrl": "https://github.com/4d3l/dunes-updates/releases/download/v1.2.11/dunes_v1.2.11.apk",
+  "releaseNotes": "v1.2.11: PARTIAL_WAKE_LOCK for background connectivity, voice note fix, factory reset fix, audio routing UI, file name labels, screen-off call audio fix."
 }
