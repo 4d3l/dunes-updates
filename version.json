@@ -1,8 +1,8 @@
 {
-  "version": "1.2.15",
-  "versionCode": 31,
-  "lastUpdated": "2026-04-17",
+  "version": "1.2.16",
+  "versionCode": 32,
+  "lastUpdated": "2026-04-18",
   "buildType": "release",
-  "apkUrl": "https://github.com/4d3l/dunes-updates/releases/download/v1.2.15/dunes_v1.2.15.apk",
-  "releaseNotes": "v1.2.15: Bug fixes — (1) Audio routing icons redesigned as circular buttons, Bluetooth always visible (2) Call rejection no longer freezes screen or crashes app (3) File transfer bubbles show WhatsApp-style colored type badges with original filenames (4) Factory reset now properly wipes all data"
+  "apkUrl": "https://github.com/4d3l/dunes-updates/releases/download/v1.2.16/dunes_v1.2.16.apk",
+  "releaseNotes": "v1.2.16: Ghost Mode (auto-delete on startup), Bluetooth audio availability detection, and improved Factory Reset for clearing large media caches."
 }
