@@ -1,8 +1,8 @@
 {
-  "version": "1.2.11",
-  "versionCode": 26,
+  "version": "1.2.14",
+  "versionCode": 30,
   "lastUpdated": "2026-04-17",
   "buildType": "release",
-  "apkUrl": "https://github.com/4d3l/dunes-updates/releases/download/v1.2.11/dunes_v1.2.11.apk",
-  "releaseNotes": "v1.2.11: PARTIAL_WAKE_LOCK for background connectivity, voice note fix, factory reset fix, audio routing UI, file name labels, screen-off call audio fix."
+  "apkUrl": "https://github.com/4d3l/dunes-updates/releases/download/v1.2.14/dunes_v1.2.14.apk",
+  "releaseNotes": "v1.2.14: Rollback to stable v1.2.11 logic but with updated versioning to allow installation over v1.2.13. Reverts the Guardian native keepalive experiments while preserving v1.2.11 stability features (WakeLocks, Audio Routing, etc)."
 }
