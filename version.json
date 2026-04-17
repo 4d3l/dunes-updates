@@ -1,7 +1,8 @@
 {
-  "version": "1.2.12",
-  "versionCode": 27,
+  "version": "1.2.13",
+  "versionCode": 28,
   "lastUpdated": "2026-04-17",
-  "apkUrl": "https://github.com/4d3l/dunes-updates/releases/download/v1.2.12/dunes_v1.2.12.apk",
-  "releaseNotes": "v1.2.12: Guardian native WebSocket + 25s Handler loop..."
+  "buildType": "release",
+  "apkUrl": "https://github.com/4d3l/dunes-updates/releases/download/v1.2.13/dunes_v1.2.13.apk",
+  "releaseNotes": "v1.2.13: Permanent fix for background connectivity. Guardian native Handler loop (25s) with DeviceEventEmitter integration. Bypasses Hermes JS suspension with native-to-JS poke mechanism."
 }
