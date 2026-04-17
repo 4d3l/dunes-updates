@@ -1,8 +1,8 @@
 {
-  "version": "1.2.14",
-  "versionCode": 30,
+  "version": "1.2.15",
+  "versionCode": 31,
   "lastUpdated": "2026-04-17",
   "buildType": "release",
-  "apkUrl": "https://github.com/4d3l/dunes-updates/releases/download/v1.2.14/dunes_v1.2.14.apk",
-  "releaseNotes": "v1.2.14: Rollback to stable v1.2.11 logic but with updated versioning to allow installation over v1.2.13. Reverts the Guardian native keepalive experiments while preserving v1.2.11 stability features (WakeLocks, Audio Routing, etc)."
+  "apkUrl": "https://github.com/4d3l/dunes-updates/releases/download/v1.2.15/dunes_v1.2.15.apk",
+  "releaseNotes": "v1.2.15: Bug fixes — (1) Audio routing icons redesigned as circular buttons, Bluetooth always visible (2) Call rejection no longer freezes screen or crashes app (3) File transfer bubbles show WhatsApp-style colored type badges with original filenames (4) Factory reset now properly wipes all data"
 }
