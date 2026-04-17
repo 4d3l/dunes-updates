@@ -1,8 +1,5 @@
 {
-  "version": "1.2.10",
-  "versionCode": 25,
-  "lastUpdated": "2026-04-17",
-  "buildType": "release",
-  "apkUrl": "https://github.com/4d3l/dunes-updates/releases/download/v1.2.10/dunes_v1.2.10.apk",
-  "releaseNotes": "v1.2.10: Fixed ghost ringing, factory reset, audio routing (earpiece/speaker/bluetooth), boot autostart, and stale notifications."
+  "version": "1.2.11",
+  "versionCode": 26,
+  "apkUrl": "https://github.com/4d3l/dunes-updates/releases/download/v1.2.11/dunes_v1.2.11.apk"
 }
