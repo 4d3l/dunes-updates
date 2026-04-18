@@ -1,8 +1,8 @@
 {
-  "version": "1.2.20",
-  "versionCode": 36,
+  "version": "1.2.21",
+  "versionCode": 37,
   "lastUpdated": "2026-04-18",
   "buildType": "release",
-  "apkUrl": "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.2.20.apk",
-  "releaseNotes": "v1.2.20: Mini call bar, back button fix, reconnect loop fix"
+  "apkUrl": "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.2.21.apk",
+  "releaseNotes": "v1.2.21: Mini bar fix, call notification, edited label, cancel transfer, remove ghost mode"
 }
