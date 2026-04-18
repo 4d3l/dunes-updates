@@ -1,8 +1,8 @@
 {
-  "version": "1.2.17",
-  "versionCode": 33,
+  "version": "1.2.18",
+  "versionCode": 34,
   "lastUpdated": "2026-04-18",
   "buildType": "release",
-  "apkUrl": "https://github.com/4d3l/dunes-updates/releases/download/v1.2.17/dunes_v1.2.17.apk",
-  "releaseNotes": "v1.2.17: 12 fixes - stale online status, keyboard dismiss on call, audio player self-heal, BT-first audio priority, echo cancellation, speaker toggle fix, mic icon size, background audio during calls, message reliability, message editing feature"
+  "apkUrl": "https://raw.githubusercontent.com/4d3l/dunes-messenger/main/dunes_v1.2.18.apk",
+  "releaseNotes": "v1.2.18: Critical hotfix - resolved crash on calls from invalid AcousticEchoCanceler session ID"
 }
