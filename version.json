@@ -3,6 +3,6 @@
   "versionCode": 34,
   "lastUpdated": "2026-04-18",
   "buildType": "release",
-  "apkUrl": "https://raw.githubusercontent.com/4d3l/dunes-messenger/main/dunes_v1.2.18.apk",
+  "apkUrl": "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.2.18.apk",
   "releaseNotes": "v1.2.18: Critical hotfix - resolved crash on calls from invalid AcousticEchoCanceler session ID"
 }
