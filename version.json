@@ -1,8 +1,8 @@
 {
-  "version": "1.2.22",
-  "versionCode": 38,
+  "version": "1.2.23",
+  "versionCode": 39,
   "lastUpdated": "2026-04-19",
   "buildType": "release",
-  "apkUrl": "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.2.22.apk",
-  "releaseNotes": "v1.2.22: Call bar fix, audio lock, sticky notification, speaker fix"
+  "apkUrl": "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.2.23.apk",
+  "releaseNotes": "v1.2.23: Call bar position fix, uniform controls, ICE reconnect, cancel transfer"
 }
