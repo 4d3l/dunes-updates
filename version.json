@@ -1,8 +1,8 @@
 {
-  "version": "1.2.24",
-  "versionCode": 40,
+  "version": "1.2.25",
+  "versionCode": 41,
   "lastUpdated": "2026-04-19",
   "buildType": "release",
-  "apkUrl": "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.2.24.apk",
-  "releaseNotes": "v1.2.24: Fix notification stuck, relay loop guard, reconnect indicator, ICE recovery"
+  "apkUrl": "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.2.25.apk",
+  "releaseNotes": "v1.2.25: Clean hangup signal, ICE restart on network switch, reconnect sound"
 }
