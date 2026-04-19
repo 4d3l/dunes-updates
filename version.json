@@ -1,8 +1,8 @@
 {
-  "version": "1.3.4",
-  "versionCode": 47,
+  "version": "1.3.5",
+  "versionCode": 48,
   "lastUpdated": "2026-04-19",
   "buildType": "release",
-  "apkUrl": "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.3.4.apk",
-  "releaseNotes": "v1.3.4: Fix startup crash from background startActivity(), proper full-screen call notification"
+  "apkUrl": "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.3.5.apk",
+  "releaseNotes": "v1.3.5: Stability fix — full clean build, full-screen incoming call notification"
 }
