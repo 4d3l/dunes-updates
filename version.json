@@ -1,8 +1,8 @@
 {
-  "version": "1.3.2",
-  "versionCode": 45,
+  "version": "1.3.3",
+  "versionCode": 46,
   "lastUpdated": "2026-04-19",
   "buildType": "release",
-  "apkUrl": "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.3.2.apk",
-  "releaseNotes": "v1.3.2: Fix FCM spam, fix missing FCM token when device idles, fix call wake-up"
+  "apkUrl": "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.3.3.apk",
+  "releaseNotes": "v1.3.3: Fix incoming call wake — direct app launch + full-screen notification over lock screen"
 }
