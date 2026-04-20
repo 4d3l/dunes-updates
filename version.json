@@ -1,8 +1,8 @@
 {
-  "version": "1.4.0",
-  "versionCode": 50,
+  "version": "1.4.1",
+  "versionCode": 51,
   "lastUpdated": "2026-04-20",
   "buildType": "release",
-  "apkUrl": "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.4.0.apk",
-  "releaseNotes": "v1.4.0: ICE hangup fix, offline message delivery fix, audio picker, video placeholder, swipeable call UI, auto-start on reboot, presence stability"
+  "apkUrl": "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.4.1.apk",
+  "releaseNotes": "v1.4.1: Fix ear sensor, fix audio dying when screen off, fix hangup reconnect loop, fix all call sounds, fix relay flashing, 30s no-answer timeout"
 }
