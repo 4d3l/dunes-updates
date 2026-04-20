@@ -1,8 +1,8 @@
 {
-  "version": "1.4.1",
-  "versionCode": 51,
+  "version": "1.4.2",
+  "versionCode": 52,
   "lastUpdated": "2026-04-20",
   "buildType": "release",
-  "apkUrl": "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.4.1.apk",
-  "releaseNotes": "v1.4.1: Fix ear sensor, fix audio dying when screen off, fix hangup reconnect loop, fix all call sounds, fix relay flashing, 30s no-answer timeout"
+  "apkUrl": "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.4.2.apk",
+  "releaseNotes": "v1.4.2: Fix hangup race condition (signal-before-close), PARTIAL_WAKE_LOCK for Xiaomi audio, ICE disconnect guard"
 }
