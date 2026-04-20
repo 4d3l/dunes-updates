@@ -1,8 +1,8 @@
 {
-  "version": "1.3.6",
-  "versionCode": 49,
-  "lastUpdated": "2026-04-19",
+  "version": "1.4.0",
+  "versionCode": 50,
+  "lastUpdated": "2026-04-20",
   "buildType": "release",
-  "apkUrl": "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.3.6.apk",
-  "releaseNotes": "v1.3.6: Fix screen wake for messages, extend caller ringing timeout to 90s, extend call_offer retry to 20s"
+  "apkUrl": "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.4.0.apk",
+  "releaseNotes": "v1.4.0: ICE hangup fix, offline message delivery fix, audio picker, video placeholder, swipeable call UI, auto-start on reboot, presence stability"
 }
