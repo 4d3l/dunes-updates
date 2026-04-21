@@ -1,8 +1,8 @@
 {
-  "version": "1.4.2",
-  "versionCode": 52,
-  "lastUpdated": "2026-04-20",
+  "version": "1.4.3",
+  "versionCode": 53,
+  "lastUpdated": "2026-04-21",
   "buildType": "release",
-  "apkUrl": "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.4.2.apk",
-  "releaseNotes": "v1.4.2: Fix hangup race condition (signal-before-close), PARTIAL_WAKE_LOCK for Xiaomi audio, ICE disconnect guard"
+  "apkUrl": "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.4.3.apk",
+  "releaseNotes": "v1.4.3: Restore bg keepalive toggle, fix hangup signal race (1.5s delay), crash protection, 3s ICE grace"
 }
