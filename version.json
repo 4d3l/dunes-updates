@@ -1,8 +1,8 @@
 {
     "lastUpdated":  "2026-04-21",
-    "version":  "1.5.0",
-    "releaseNotes":  "v1.5.0: Fix call signal delivery (wakeHint), relay 180s idle, 15min buffer, 3s reconnect",
+    "version":  "1.5.1",
+    "releaseNotes":  "v1.5.1: Self-healing ICE disconnect, 500ms grace for call_end signal delivery",
     "buildType":  "release",
-    "versionCode":  56,
-    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.5.0.apk"
+    "versionCode":  57,
+    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.5.1.apk"
 }
