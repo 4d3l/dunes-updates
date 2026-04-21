@@ -1,8 +1,8 @@
 {
     "lastUpdated":  "2026-04-21",
-    "version":  "1.5.2",
-    "releaseNotes":  "v1.5.2: Self-healing ICE, wakeHint on all call signals",
+    "version":  "1.5.3",
+    "releaseNotes":  "v1.5.3: Fix ICE restart loop after hangup",
     "buildType":  "release",
-    "versionCode":  58,
-    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.5.2.apk"
+    "versionCode":  59,
+    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.5.3.apk"
 }
