@@ -1,8 +1,8 @@
 {
     "lastUpdated":  "2026-04-21",
-    "version":  "1.5.4",
-    "releaseNotes":  "v1.5.4: Fix stale signal handler — signals now always use latest handler",
+    "version":  "1.5.5",
+    "releaseNotes":  "v1.5.5: Call signal diagnostics for debugging",
     "buildType":  "release",
-    "versionCode":  60,
-    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.5.4.apk"
+    "versionCode":  61,
+    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.5.5.apk"
 }
