@@ -1,8 +1,8 @@
 {
     "lastUpdated":  "2026-04-21",
-    "version":  "1.5.7",
-    "releaseNotes":  "v1.5.7: Fix Xiaomi foreground service crash, signal tracing",
+    "version":  "1.5.8",
+    "releaseNotes":  "v1.5.8: Comprehensive fix for call decline and hangup unreliability",
     "buildType":  "release",
-    "versionCode":  63,
-    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.5.7.apk"
+    "versionCode":  64,
+    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.5.8.apk"
 }
