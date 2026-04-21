@@ -1,8 +1,8 @@
 {
-  "version": "1.4.4",
-  "versionCode": 54,
+  "version": "1.4.5",
+  "versionCode": 55,
   "lastUpdated": "2026-04-21",
   "buildType": "release",
-  "apkUrl": "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.4.4.apk",
-  "releaseNotes": "v1.4.4: Restore bg keepalive toggle, fix hangup signal race (1.5s delay), crash protection, 3s ICE grace"
+  "apkUrl": "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.4.5.apk",
+  "releaseNotes": "v1.4.5: Restore bg keepalive toggle, fix hangup signal race (1.5s delay), crash protection, 3s ICE grace"
 }
