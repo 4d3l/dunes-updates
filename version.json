@@ -1,8 +1,8 @@
 {
     "lastUpdated":  "2026-04-21",
-    "version":  "1.5.1",
-    "releaseNotes":  "v1.5.1: Self-healing ICE disconnect, 500ms grace for call_end signal delivery",
+    "version":  "1.5.2",
+    "releaseNotes":  "v1.5.2: Self-healing ICE, wakeHint on all call signals",
     "buildType":  "release",
-    "versionCode":  57,
-    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.5.1.apk"
+    "versionCode":  58,
+    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.5.2.apk"
 }
