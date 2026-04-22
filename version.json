@@ -1,8 +1,8 @@
 {
     "lastUpdated":  "2026-04-22",
-    "version":  "1.6.5",
-    "releaseNotes":  "v1.6.5: Fix screen-off audio death",
+    "version":  "1.6.6",
+    "releaseNotes":  "v1.6.6: Fix Xiaomi mic on screen lock",
     "buildType":  "release",
-    "versionCode":  70,
-    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.6.5.apk"
+    "versionCode":  71,
+    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.6.6.apk"
 }
