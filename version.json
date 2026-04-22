@@ -1,8 +1,8 @@
 {
     "lastUpdated":  "2026-04-22",
-    "version":  "1.6.1",
-    "releaseNotes":  "v1.6.1: Call state machine rewrite",
+    "version":  "1.6.2",
+    "releaseNotes":  "v1.6.2: Fix async gap in call teardown",
     "buildType":  "release",
-    "versionCode":  66,
-    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.6.1.apk"
+    "versionCode":  67,
+    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.6.2.apk"
 }
