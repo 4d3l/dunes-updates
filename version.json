@@ -1,8 +1,8 @@
 {
-    "lastUpdated":  "2026-04-21",
-    "version":  "1.5.8",
-    "releaseNotes":  "v1.5.8: Comprehensive fix for call decline and hangup unreliability",
+    "lastUpdated":  "2026-04-22",
+    "version":  "1.6.0",
+    "releaseNotes":  "v1.6.0: Definitive call signaling fix",
     "buildType":  "release",
-    "versionCode":  64,
-    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.5.8.apk"
+    "versionCode":  65,
+    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.6.0.apk"
 }
