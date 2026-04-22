@@ -1,8 +1,8 @@
 {
     "lastUpdated":  "2026-04-22",
-    "version":  "1.6.7",
-    "releaseNotes":  "v1.6.7: Xiaomi mic fix + no FCM wake for P2P",
+    "version":  "1.6.8",
+    "releaseNotes":  "v1.6.8: Revert to v1.2.26 call logic + WiFi lock",
     "buildType":  "release",
-    "versionCode":  72,
-    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.6.7.apk"
+    "versionCode":  73,
+    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.6.8.apk"
 }
