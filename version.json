@@ -1,8 +1,8 @@
 {
     "lastUpdated":  "2026-04-22",
-    "version":  "1.6.3",
-    "releaseNotes":  "v1.6.3: Fix Xiaomi screen-off mic/speaker + call teardown",
+    "version":  "1.6.4",
+    "releaseNotes":  "v1.6.4: Xiaomi mic fix + call signal fix",
     "buildType":  "release",
-    "versionCode":  68,
-    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.6.3.apk"
+    "versionCode":  69,
+    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.6.4.apk"
 }
