@@ -1,8 +1,8 @@
 {
     "lastUpdated":  "2026-04-22",
-    "version":  "1.6.9",
-    "releaseNotes":  "v1.6.9: Relay call_offer headless task fix + Raw MICROPHONE service type",
+    "version":  "1.6.10",
+    "releaseNotes":  "v1.6.10: Start MICROPHONE service during ringing phase",
     "buildType":  "release",
-    "versionCode":  74,
-    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.6.9.apk"
+    "versionCode":  75,
+    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.6.10.apk"
 }
