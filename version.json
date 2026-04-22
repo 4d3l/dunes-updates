@@ -1,8 +1,8 @@
 {
     "lastUpdated":  "2026-04-22",
-    "version":  "1.6.6",
-    "releaseNotes":  "v1.6.6: Fix Xiaomi mic on screen lock",
+    "version":  "1.6.7",
+    "releaseNotes":  "v1.6.7: Xiaomi mic fix + no FCM wake for P2P",
     "buildType":  "release",
-    "versionCode":  71,
-    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.6.6.apk"
+    "versionCode":  72,
+    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.6.7.apk"
 }
