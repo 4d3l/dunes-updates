@@ -1,8 +1,8 @@
 {
     "lastUpdated":  "2026-04-22",
-    "version":  "1.6.0",
-    "releaseNotes":  "v1.6.0: Definitive call signaling fix",
+    "version":  "1.6.1",
+    "releaseNotes":  "v1.6.1: Call state machine rewrite",
     "buildType":  "release",
-    "versionCode":  65,
-    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.6.0.apk"
+    "versionCode":  66,
+    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.6.1.apk"
 }
