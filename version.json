@@ -1,8 +1,8 @@
 {
     "lastUpdated":  "2026-04-22",
-    "version":  "1.6.8",
-    "releaseNotes":  "v1.6.8: Revert to v1.2.26 call logic + WiFi lock",
+    "version":  "1.6.9",
+    "releaseNotes":  "v1.6.9: Relay call_offer headless task fix + Raw MICROPHONE service type",
     "buildType":  "release",
-    "versionCode":  73,
-    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.6.8.apk"
+    "versionCode":  74,
+    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.6.9.apk"
 }
