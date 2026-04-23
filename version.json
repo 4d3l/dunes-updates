@@ -1,8 +1,8 @@
 {
-  "version": "1.7.9",
-  "versionCode": 85,
+  "version": "1.7.10",
+  "versionCode": 86,
   "lastUpdated": "2026-04-24",
   "buildType": "release",
-  "apkUrl": "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.7.9.apk",
-  "releaseNotes": "v1.7.9: Final stabilization and deep clean. Fixes 1.7.7 version display bug."
+  "apkUrl": "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.7.10.apk",
+  "releaseNotes": "v1.7.10: Fixed DunesCallService crash — startForeground must be called before action processing"
 }
