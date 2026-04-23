@@ -1,8 +1,8 @@
 {
-  "version": "1.7.1",
-  "versionCode": 77,
+  "version": "1.7.2",
+  "versionCode": 78,
   "lastUpdated": "2026-04-23",
   "buildType": "release",
-  "apkUrl": "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.7.1.apk",
-  "releaseNotes": "v1.7.1: Fix FCM wake — messages, files, edits, deletes now trigger FCM ping to wake sleeping devices"
+  "apkUrl": "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.7.2.apk",
+  "releaseNotes": "v1.7.2: Fix lock screen notification order, fix Android 14 5s startForeground crash, add PHONE_CALL type back to mic for MIUI"
 }
