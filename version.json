@@ -1,8 +1,8 @@
 {
-  "version": "1.7.11",
-  "versionCode": 87,
-  "lastUpdated": "2026-04-24",
-  "buildType": "release",
-  "apkUrl": "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.7.11.apk",
-  "releaseNotes": "v1.7.10: "v1.7.11: Add MANAGE_OWN_CALLS + CALL_PHONE permissions — fixes audio on lock + system call screen"
+    "lastUpdated":  "2026-04-24",
+    "version":  "1.7.11",
+    "releaseNotes":  "v1.7.11: Add MANAGE_OWN_CALLS + CALL_PHONE permissions - fixes audio on lock + system call screen + outgoing calls",
+    "buildType":  "release",
+    "versionCode":  87,
+    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.7.11.apk"
 }
