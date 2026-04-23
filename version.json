@@ -1,8 +1,8 @@
 {
-  "version": "1.7.2",
-  "versionCode": 78,
+  "version": "1.7.0",
+  "versionCode": 76,
   "lastUpdated": "2026-04-23",
   "buildType": "release",
-  "apkUrl": "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.7.2.apk",
-  "releaseNotes": "v1.7.2: Fix lock screen notification order, fix Android 14 5s startForeground crash, add PHONE_CALL type back to mic for MIUI"
+  "apkUrl": "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.7.0.apk",
+  "releaseNotes": "v1.7.0: Persistent MICROPHONE service (v1.2.26 approach) — eliminates Android 14 background mic crash"
 }
