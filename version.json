@@ -1,8 +1,8 @@
 {
-  "version": "1.7.7",
-  "versionCode": 83,
-  "lastUpdated": "2026-04-23",
+  "version": "1.7.8",
+  "versionCode": 84,
+  "lastUpdated": "2026-04-24",
   "buildType": "release",
-  "apkUrl": "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.7.7.apk",
-  "releaseNotes": "v1.7.7: Fix proximity, audio on lock, call screen over lock, FCM timing"
+  "apkUrl": "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.7.8.apk",
+  "releaseNotes": "v1.7.8: Hybrid TelecomManager + manual protection — fixes proximity, audio on lock, FCM timing"
 }
