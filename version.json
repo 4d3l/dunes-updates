@@ -1,8 +1,8 @@
 {
-  "version": "1.7.4",
-  "versionCode": 80,
+  "version": "1.7.5",
+  "versionCode": 81,
   "lastUpdated": "2026-04-23",
   "buildType": "release",
-  "apkUrl": "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.7.4.apk",
-  "releaseNotes": "v1.7.4: TelecomManager integration — universal VoIP calling for all phone brands"
+  "apkUrl": "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.7.5.apk",
+  "releaseNotes": "v1.7.5: Fix proximity, audio on screen lock, call screen over lock screen, outgoing call registration"
 }
