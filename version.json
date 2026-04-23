@@ -1,8 +1,8 @@
 {
-  "version": "1.7.3",
-  "versionCode": 79,
+  "version": "1.7.4",
+  "versionCode": 80,
   "lastUpdated": "2026-04-23",
   "buildType": "release",
-  "apkUrl": "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.7.3.apk",
-  "releaseNotes": "v1.7.3: Restoring v1.7.0 stability — Persistent MICROPHONE foreground service (v1.2.26 approach)"
+  "apkUrl": "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.7.4.apk",
+  "releaseNotes": "v1.7.4: TelecomManager integration — universal VoIP calling for all phone brands"
 }
