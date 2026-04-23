@@ -1,8 +1,8 @@
 {
-  "version": "1.7.0",
-  "versionCode": 76,
+  "version": "1.7.1",
+  "versionCode": 77,
   "lastUpdated": "2026-04-23",
   "buildType": "release",
-  "apkUrl": "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.7.0.apk",
-  "releaseNotes": "v1.7.0: Persistent MICROPHONE service (v1.2.26 approach) — eliminates Android 14 background mic crash"
+  "apkUrl": "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.7.1.apk",
+  "releaseNotes": "v1.7.1: Fix FCM wake — messages, files, edits, deletes now trigger FCM ping to wake sleeping devices"
 }
