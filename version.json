@@ -1,8 +1,8 @@
 {
-  "version": "1.7.6",
-  "versionCode": 82,
+  "version": "1.7.7",
+  "versionCode": 83,
   "lastUpdated": "2026-04-23",
   "buildType": "release",
-  "apkUrl": "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.7.6.apk",
-  "releaseNotes": "v1.7.6: TelecomManager + proximity, foreground PHONE_CALL|MICROPHONE, fullScreenIntent, outgoing call registration"
+  "apkUrl": "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.7.7.apk",
+  "releaseNotes": "v1.7.7: Fix proximity, audio on lock, call screen over lock, FCM timing"
 }
