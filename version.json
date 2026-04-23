@@ -1,8 +1,8 @@
 {
     "lastUpdated":  "2026-04-24",
-    "version":  "1.7.11",
-    "releaseNotes":  "v1.7.11: Add MANAGE_OWN_CALLS + CALL_PHONE permissions - fixes audio on lock + system call screen + outgoing calls",
+    "version":  "1.7.12",
+    "releaseNotes":  "v1.7.12 Fix audio on lock, FCM spam, screen wake leak",
     "buildType":  "release",
-    "versionCode":  87,
-    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.7.11.apk"
+    "versionCode":  88,
+    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.7.12.apk"
 }
