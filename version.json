@@ -1,8 +1,8 @@
 {
-    "lastUpdated":  "2026-04-24",
-    "version":  "1.7.12",
-    "releaseNotes":  "v1.7.12 Fix audio on lock, FCM spam, screen wake leak",
+    "lastUpdated":  "2026-04-25",
+    "version":  "1.7.13",
+    "releaseNotes":  "v1.7.13 BT auto-switch, sounds, voice notes, FCM wake, lock screen, relay stability",
     "buildType":  "release",
-    "versionCode":  88,
-    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.7.12.apk"
+    "versionCode":  89,
+    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.7.13.apk"
 }
