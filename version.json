@@ -1,8 +1,8 @@
 {
     "lastUpdated":  "2026-04-25",
-    "version":  "1.7.14",
-    "releaseNotes":  "v1.7.14 Fix screen timeout, lock screen scope, notification sounds, relay spam",
+    "version":  "1.7.15",
+    "releaseNotes":  "v1.7.15 Fix sounds missing on background, app freeze on reconnecting, and killed state notification fix",
     "buildType":  "release",
-    "versionCode":  90,
-    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.7.14.apk"
+    "versionCode":  91,
+    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.7.15.apk"
 }
