@@ -1,8 +1,8 @@
 {
     "lastUpdated":  "2026-04-25",
-    "version":  "1.7.18",
-    "releaseNotes":  "v1.7.18 - Fix Settings crash, fix notification sounds, message delivery receipts (two ticks), call overlay stays minimized during voice notes.",
+    "version":  "1.7.19",
+    "releaseNotes":  "v1.7.19 - Fix WebSocket zombie loop, restore ringtone/notification sounds, fix notification channel caching, stable relay connection.",
     "buildType":  "release",
-    "versionCode":  94,
-    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.7.18.apk"
+    "versionCode":  95,
+    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.7.19.apk"
 }
