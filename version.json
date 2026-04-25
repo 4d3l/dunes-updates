@@ -1,8 +1,8 @@
 {
-    "lastUpdated":  "2026-04-25",
-    "version":  "1.7.19",
-    "releaseNotes":  "v1.7.19 - Fix WebSocket zombie loop, restore ringtone/notification sounds, fix notification channel caching, stable relay connection.",
+    "lastUpdated":  "2026-04-26",
+    "version":  "1.7.20",
+    "releaseNotes":  "v1.7.20 - Fix ringtone/notification sounds, lock screen call UI, missed call notifications, FCM timing, tick styling, call glare resolution.",
     "buildType":  "release",
-    "versionCode":  95,
-    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.7.19.apk"
+    "versionCode":  96,
+    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.7.20.apk"
 }
