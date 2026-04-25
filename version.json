@@ -1,8 +1,8 @@
 {
     "lastUpdated":  "2026-04-25",
-    "version":  "1.7.15",
-    "releaseNotes":  "v1.7.15 Fix sounds missing on background, app freeze on reconnecting, and killed state notification fix",
+    "version":  "1.7.17",
+    "releaseNotes":  "v1.7.17 (Stability Sprint) - Pure FCM architecture, fixes message delivery when phone locked, eliminates audio hardware lockups, proper notification sound channels, removes background service workarounds.",
     "buildType":  "release",
-    "versionCode":  91,
-    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.7.15.apk"
+    "versionCode":  93,
+    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.7.17.apk"
 }
