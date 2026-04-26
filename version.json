@@ -1,8 +1,8 @@
 {
     "lastUpdated":  "2026-04-26",
-    "version":  "1.7.24",
-    "releaseNotes":  "v1.7.24 - Cleanup: fix crash on decline, remove custom sound picker, FCM uses system default sound, hardcode relay URL, simplified notification channels.",
+    "version":  "1.7.25",
+    "releaseNotes":  "v1.7.25 - Self-sufficient headless task for FCM background delivery: connects own WebSocket, processes buffered messages, sends two-tick confirmations, flushes outbound queue.",
     "buildType":  "release",
-    "versionCode":  100,
-    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.7.24.apk"
+    "versionCode":  101,
+    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.7.25.apk"
 }
