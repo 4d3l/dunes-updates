@@ -1,8 +1,8 @@
 {
     "lastUpdated":  "2026-04-26",
-    "version":  "1.7.23",
-    "releaseNotes":  "v1.7.23 - Fix missed call on decline (reportCallRejected), ringtone via native channel, FCM notification sound, BT state machine rewrite, silent/vibrate actually work.",
+    "version":  "1.7.24",
+    "releaseNotes":  "v1.7.24 - Cleanup: fix crash on decline, remove custom sound picker, FCM uses system default sound, hardcode relay URL, simplified notification channels.",
     "buildType":  "release",
-    "versionCode":  99,
-    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.7.23.apk"
+    "versionCode":  100,
+    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.7.24.apk"
 }
