@@ -1,8 +1,8 @@
 {
     "lastUpdated":  "2026-04-28",
-    "version":  "1.7.27",
-    "releaseNotes":  "v1.7.27 - Fix ForegroundService crash on first decline, vibrate respects silent+toggle, black window background for lock screen calls.",
+    "version":  "1.7.28",
+    "releaseNotes":  "v1.7.28 - Silent notification channel (vibrate toggle works), lock screen guard, call tones fixed, two-tick flush delay.",
     "buildType":  "release",
-    "versionCode":  103,
-    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.7.27.apk"
+    "versionCode":  104,
+    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.7.28.apk"
 }
