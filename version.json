@@ -1,8 +1,8 @@
 {
-    "lastUpdated":  "2026-04-26",
-    "version":  "1.7.25",
-    "releaseNotes":  "v1.7.25 - Self-sufficient headless task for FCM background delivery: connects own WebSocket, processes buffered messages, sends two-tick confirmations, flushes outbound queue.",
+    "lastUpdated":  "2026-04-28",
+    "version":  "1.7.26",
+    "releaseNotes":  "v1.7.26 - Fix 6 bugs: reliable two-tick delivery, first-decline crash, ringtone via expo-av, relay loop, lock screen flash, silent/vibrate sync.",
     "buildType":  "release",
-    "versionCode":  101,
-    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.7.25.apk"
+    "versionCode":  102,
+    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.7.26.apk"
 }
