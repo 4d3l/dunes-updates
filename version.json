@@ -1,8 +1,8 @@
 {
     "lastUpdated":  "2026-04-28",
-    "version":  "1.7.26",
-    "releaseNotes":  "v1.7.26 - Fix 6 bugs: reliable two-tick delivery, first-decline crash, ringtone via expo-av, relay loop, lock screen flash, silent/vibrate sync.",
+    "version":  "1.7.27",
+    "releaseNotes":  "v1.7.27 - Fix ForegroundService crash on first decline, vibrate respects silent+toggle, black window background for lock screen calls.",
     "buildType":  "release",
-    "versionCode":  102,
-    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.7.26.apk"
+    "versionCode":  103,
+    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.7.27.apk"
 }
