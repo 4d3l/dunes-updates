@@ -1,8 +1,8 @@
 {
     "lastUpdated":  "2026-04-28",
-    "version":  "1.7.28",
-    "releaseNotes":  "v1.7.28 - Silent notification channel (vibrate toggle works), lock screen guard, call tones fixed, two-tick flush delay.",
+    "version":  "1.7.30",
+    "releaseNotes":  "v1.7.30 - System default ringtone, cross-device vibrate fix, dial tone speaker routing, lock screen guard 2.5s, two-tick 2s flush, silent sync channel.",
     "buildType":  "release",
-    "versionCode":  104,
-    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.7.28.apk"
+    "versionCode":  106,
+    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.7.30.apk"
 }
