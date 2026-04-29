@@ -1,8 +1,8 @@
 {
-    "lastUpdated":  "2026-04-29",
-    "version":  "1.7.31",
-    "releaseNotes":  "v1.7.31 - Call guard only on incoming calls, relay reconnect dedup, two-tick double-ack + foreground re-ack, silent sync channel fix.",
+    "lastUpdated":  "2026-04-30",
+    "version":  "1.7.32",
+    "releaseNotes":  "v1.7.32 - Relay-confirmed ack retry for two-ticks, Xiaomi speaker routing fix, wearable call sync, native dark background guard.",
     "buildType":  "release",
-    "versionCode":  107,
-    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.7.31.apk"
+    "versionCode":  108,
+    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.7.32.apk"
 }
