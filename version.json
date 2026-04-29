@@ -1,8 +1,8 @@
 {
     "lastUpdated":  "2026-04-30",
-    "version":  "1.7.34",
-    "releaseNotes":  "v1.7.34 - Stale call rejection (no more phantom calls on wake), chat pagination (last 50 msgs, load more button).",
+    "version":  "1.7.35",
+    "releaseNotes":  "v1.7.35 - Reply to messages, right-aligned context menu, scroll fixes (load more keeps position, input focus scrolls to bottom), chat pagination.",
     "buildType":  "release",
-    "versionCode":  110,
-    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.7.34.apk"
+    "versionCode":  111,
+    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.7.35.apk"
 }
