@@ -1,8 +1,8 @@
 {
     "lastUpdated":  "2026-05-01",
-    "version":  "1.7.37",
-    "releaseNotes":  "v1.7.37 - FAB position fix, reliable initial scroll-to-bottom, load-more keeps scroll position, input focus scroll, multi-select on bubble+row, double ACK for reliable delivery ticks.",
+    "version":  "1.7.38",
+    "releaseNotes":  "v1.7.38 - FAB visible with keyboard, reply highlight visible, ACK race condition fixed (two-tick), adjustResize keyboard fix.",
     "buildType":  "release",
-    "versionCode":  113,
-    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.7.37.apk"
+    "versionCode":  114,
+    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.7.38.apk"
 }
