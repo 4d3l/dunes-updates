@@ -1,8 +1,8 @@
 {
     "lastUpdated":  "2026-05-01",
-    "version":  "1.7.42",
-    "releaseNotes":  "v1.7.42 - Input bar offset +46px, pixel-perfect keyboard snap.",
+    "version":  "1.7.43",
+    "releaseNotes":  "v1.7.43 - Input bar +49px, FAB +113px.",
     "buildType":  "release",
-    "versionCode":  118,
-    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.7.42.apk"
+    "versionCode":  119,
+    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.7.43.apk"
 }
