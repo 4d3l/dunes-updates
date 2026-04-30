@@ -1,8 +1,8 @@
 {
     "lastUpdated":  "2026-05-01",
-    "version":  "1.7.36",
-    "releaseNotes":  "v1.7.36 - BT wearable mesh sync (answer/reject from watch), scroll-to-bottom FAB, load-more no scroll, bubble-only reply highlight, tap-on-bubble multi-select.",
+    "version":  "1.7.37",
+    "releaseNotes":  "v1.7.37 - FAB position fix, reliable initial scroll-to-bottom, load-more keeps scroll position, input focus scroll, multi-select on bubble+row, double ACK for reliable delivery ticks.",
     "buildType":  "release",
-    "versionCode":  112,
-    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.7.36.apk"
+    "versionCode":  113,
+    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.7.37.apk"
 }
