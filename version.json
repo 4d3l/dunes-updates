@@ -1,8 +1,8 @@
 {
     "lastUpdated":  "2026-05-01",
-    "version":  "1.7.38",
-    "releaseNotes":  "v1.7.38 - FAB visible with keyboard, reply highlight visible, ACK race condition fixed (two-tick), adjustResize keyboard fix.",
+    "version":  "1.7.39",
+    "releaseNotes":  "v1.7.39 - Input box visible with keyboard (manual padding), thicker reply highlight, pendingAcks race-safe two-tick delivery.",
     "buildType":  "release",
-    "versionCode":  114,
-    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.7.38.apk"
+    "versionCode":  115,
+    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.7.39.apk"
 }
