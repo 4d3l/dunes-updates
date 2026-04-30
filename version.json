@@ -1,8 +1,8 @@
 {
     "lastUpdated":  "2026-05-01",
-    "version":  "1.7.41",
-    "releaseNotes":  "v1.7.41 - Input bar snaps to keyboard (-12px), periodic ACK re-sender (15s loop) for bulletproof two-tick delivery.",
+    "version":  "1.7.42",
+    "releaseNotes":  "v1.7.42 - Input bar offset +46px, pixel-perfect keyboard snap.",
     "buildType":  "release",
-    "versionCode":  117,
-    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.7.41.apk"
+    "versionCode":  118,
+    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.7.42.apk"
 }
