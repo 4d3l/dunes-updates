@@ -1,8 +1,8 @@
 {
-    "lastUpdated":  "2026-04-30",
-    "version":  "1.7.35",
-    "releaseNotes":  "v1.7.35 - Reply to messages, right-aligned context menu, scroll fixes (load more keeps position, input focus scrolls to bottom), chat pagination.",
+    "lastUpdated":  "2026-05-01",
+    "version":  "1.7.36",
+    "releaseNotes":  "v1.7.36 - BT wearable mesh sync (answer/reject from watch), scroll-to-bottom FAB, load-more no scroll, bubble-only reply highlight, tap-on-bubble multi-select.",
     "buildType":  "release",
-    "versionCode":  111,
-    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.7.35.apk"
+    "versionCode":  112,
+    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.7.36.apk"
 }
