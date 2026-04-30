@@ -1,8 +1,8 @@
 {
     "lastUpdated":  "2026-05-01",
-    "version":  "1.7.39",
-    "releaseNotes":  "v1.7.39 - Input box visible with keyboard (manual padding), thicker reply highlight, pendingAcks race-safe two-tick delivery.",
+    "version":  "1.7.40",
+    "releaseNotes":  "v1.7.40 - Input bar fully visible above keyboard (+56px), FAB above input bar (+120px offset).",
     "buildType":  "release",
-    "versionCode":  115,
-    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.7.39.apk"
+    "versionCode":  116,
+    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.7.40.apk"
 }
