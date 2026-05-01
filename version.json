@@ -1,8 +1,8 @@
 {
     "lastUpdated":  "2026-05-01",
-    "version":  "1.7.47",
-    "releaseNotes":  "v1.7.47 - Fix crash on BT answer: acceptCallRef2 was assigned before acceptCall was defined.",
+    "version":  "1.7.48",
+    "releaseNotes":  "v1.7.48 - Fix BT audio routing (preserve SCO on speaker/earpiece switch) + show caller ID on wearable/Phone Link.",
     "buildType":  "release",
-    "versionCode":  123,
-    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.7.47.apk"
+    "versionCode":  124,
+    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.7.48.apk"
 }
