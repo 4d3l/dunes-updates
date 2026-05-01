@@ -1,8 +1,8 @@
 {
     "lastUpdated":  "2026-05-01",
-    "version":  "1.7.46",
-    "releaseNotes":  "v1.7.46 - Fix BT wearable event emission: use static ReactContext ref instead of MainApplication fallback.",
+    "version":  "1.7.47",
+    "releaseNotes":  "v1.7.47 - Fix crash on BT answer: acceptCallRef2 was assigned before acceptCall was defined.",
     "buildType":  "release",
-    "versionCode":  122,
-    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.7.46.apk"
+    "versionCode":  123,
+    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.7.47.apk"
 }
