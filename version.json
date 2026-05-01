@@ -1,8 +1,8 @@
 {
     "lastUpdated":  "2026-05-01",
-    "version":  "1.7.44",
-    "releaseNotes":  "v1.7.44 - MediaSession for wearable/BT/Phone Link call control (answer/decline from any connected device).",
+    "version":  "1.7.45",
+    "releaseNotes":  "v1.7.45 - onSilence/onAnswer(int)/onReject(str) overrides for BT wearable call control.",
     "buildType":  "release",
-    "versionCode":  120,
-    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.7.44.apk"
+    "versionCode":  121,
+    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.7.45.apk"
 }
