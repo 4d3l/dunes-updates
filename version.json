@@ -1,8 +1,8 @@
 {
     "lastUpdated":  "2026-05-01",
-    "version":  "1.7.43",
-    "releaseNotes":  "v1.7.43 - Input bar +49px, FAB +113px.",
+    "version":  "1.7.44",
+    "releaseNotes":  "v1.7.44 - MediaSession for wearable/BT/Phone Link call control (answer/decline from any connected device).",
     "buildType":  "release",
-    "versionCode":  119,
-    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.7.43.apk"
+    "versionCode":  120,
+    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.7.44.apk"
 }
