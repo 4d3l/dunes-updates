@@ -1,8 +1,8 @@
 {
     "lastUpdated":  "2026-05-01",
-    "version":  "1.7.50",
-    "releaseNotes":  "v1.7.50 - Respect user's audio route choice: BT only auto-routes on call start, not after manual switch.",
+    "version":  "1.7.51",
+    "releaseNotes":  "v1.7.51 - Audio route follows answering device: BT answer → BT, phone answer → earpiece.",
     "buildType":  "release",
-    "versionCode":  126,
-    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.7.50.apk"
+    "versionCode":  127,
+    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.7.51.apk"
 }
