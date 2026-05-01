@@ -1,8 +1,8 @@
 {
     "lastUpdated":  "2026-05-01",
-    "version":  "1.7.45",
-    "releaseNotes":  "v1.7.45 - onSilence/onAnswer(int)/onReject(str) overrides for BT wearable call control.",
+    "version":  "1.7.46",
+    "releaseNotes":  "v1.7.46 - Fix BT wearable event emission: use static ReactContext ref instead of MainApplication fallback.",
     "buildType":  "release",
-    "versionCode":  121,
-    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.7.45.apk"
+    "versionCode":  122,
+    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.7.46.apk"
 }
