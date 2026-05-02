@@ -1,8 +1,8 @@
 {
     "lastUpdated":  "2026-05-02",
-    "version":  "1.7.55",
-    "releaseNotes":  "v1.7.55 - BT overhaul: device-type-aware routing, multi-device picker, car/earbuds auto-route",
+    "version":  "1.7.56",
+    "releaseNotes":  "v1.7.56 - Fix: BT permission + routing timing after Telecom setActive",
     "buildType":  "release",
-    "versionCode":  131,
-    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.7.55.apk"
+    "versionCode":  132,
+    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.7.56.apk"
 }
