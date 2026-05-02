@@ -1,8 +1,8 @@
 {
-    "lastUpdated":  "2026-05-01",
-    "version":  "1.7.51",
-    "releaseNotes":  "v1.7.51 - Audio route follows answering device: BT answer → BT, phone answer → earpiece.",
+    "lastUpdated":  "2026-05-02",
+    "version":  "1.7.52",
+    "releaseNotes":  "v1.7.52 - Honor watch fix, multi-BT picker, FCM caller name fix",
     "buildType":  "release",
-    "versionCode":  127,
-    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.7.51.apk"
+    "versionCode":  128,
+    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.7.52.apk"
 }
