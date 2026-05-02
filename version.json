@@ -1,8 +1,8 @@
 {
     "lastUpdated":  "2026-05-02",
-    "version":  "1.7.54",
-    "releaseNotes":  "v1.7.54 - Fix: stop BT SCO when routing to earpiece so audio actually switches",
+    "version":  "1.7.55",
+    "releaseNotes":  "v1.7.55 - BT overhaul: device-type-aware routing, multi-device picker, car/earbuds auto-route",
     "buildType":  "release",
-    "versionCode":  130,
-    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.7.54.apk"
+    "versionCode":  131,
+    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.7.55.apk"
 }
