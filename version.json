@@ -1,8 +1,8 @@
 {
     "lastUpdated":  "2026-05-02",
-    "version":  "1.7.56",
-    "releaseNotes":  "v1.7.56 - Fix: BT permission + routing timing after Telecom setActive",
+    "version":  "1.7.57",
+    "releaseNotes":  "v1.7.57 - Fix: only show connected BT devices (not all paired)",
     "buildType":  "release",
-    "versionCode":  132,
-    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.7.56.apk"
+    "versionCode":  133,
+    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.7.57.apk"
 }
