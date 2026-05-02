@@ -1,8 +1,8 @@
 {
-    "lastUpdated":  "2026-05-02",
-    "version":  "1.7.55",
-    "releaseNotes":  "v1.7.55 - Full clean build, exact v1.7.51 code",
+    "lastUpdated":  "2026-05-01",
+    "version":  "1.7.51",
+    "releaseNotes":  "v1.7.51 - Route follows answering device: BT answer=BT, phone answer=earpiece",
     "buildType":  "release",
-    "versionCode":  131,
-    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.7.55.apk"
+    "versionCode":  127,
+    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.7.51.apk"
 }
