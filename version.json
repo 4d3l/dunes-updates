@@ -1,8 +1,8 @@
 {
     "lastUpdated":  "2026-05-02",
-    "version":  "1.7.52",
-    "releaseNotes":  "v1.7.52 - Fix: phone-answered calls stay on earpiece when BT paired",
+    "version":  "1.7.53",
+    "releaseNotes":  "v1.7.53 - Fix: outgoing calls from phone now start on earpiece when BT paired",
     "buildType":  "release",
-    "versionCode":  128,
-    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.7.52.apk"
+    "versionCode":  129,
+    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.7.53.apk"
 }
