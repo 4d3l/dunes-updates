@@ -1,8 +1,8 @@
 {
     "lastUpdated":  "2026-05-02",
-    "version":  "1.7.54",
-    "releaseNotes":  "v1.7.54 - Full revert to stable v1.7.51 code",
+    "version":  "1.7.55",
+    "releaseNotes":  "v1.7.55 - Full clean build, exact v1.7.51 code",
     "buildType":  "release",
-    "versionCode":  130,
-    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.7.54.apk"
+    "versionCode":  131,
+    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.7.55.apk"
 }
