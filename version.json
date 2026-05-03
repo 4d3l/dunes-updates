@@ -1,8 +1,8 @@
 {
     "lastUpdated":  "2026-05-03",
-    "version":  "1.7.62",
-    "releaseNotes":  "v1.7.62 - Bell auto-cleanup, non-blocking email verification",
+    "version":  "1.7.63",
+    "releaseNotes":  "v1.7.63 - Email SMTP fix, UI tweaks",
     "buildType":  "release",
-    "versionCode":  138,
-    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.7.62.apk"
+    "versionCode":  139,
+    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.7.63.apk"
 }
