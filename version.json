@@ -1,8 +1,8 @@
 {
     "lastUpdated":  "2026-05-03",
-    "version":  "1.7.60",
-    "releaseNotes":  "v1.7.60 - Crash fix, email UI, keyboard, labels, backup restore",
+    "version":  "1.7.61",
+    "releaseNotes":  "v1.7.61 - Fix AsyncStorage crash on contact add",
     "buildType":  "release",
-    "versionCode":  136,
-    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.7.60.apk"
+    "versionCode":  137,
+    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.7.61.apk"
 }
