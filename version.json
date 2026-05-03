@@ -1,8 +1,8 @@
 {
     "lastUpdated":  "2026-05-03",
-    "version":  "1.7.58",
-    "releaseNotes":  "v1.7.58 - BT routing: follows answering device, no auto-routing",
+    "version":  "1.7.59",
+    "releaseNotes":  "v1.7.59 - Username system, email verification, chat backup",
     "buildType":  "release",
-    "versionCode":  134,
-    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.7.58.apk"
+    "versionCode":  135,
+    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.7.59.apk"
 }
