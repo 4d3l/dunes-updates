@@ -1,8 +1,8 @@
 {
     "lastUpdated":  "2026-05-04",
-    "version":  "1.7.66",
-    "releaseNotes":  "v1.7.66 - Email uniqueness, unregister, username change, search button",
+    "version":  "1.7.67",
+    "releaseNotes":  "v1.7.67 - Dunes themed modals, email transfer, raised keyboard modals",
     "buildType":  "release",
-    "versionCode":  142,
-    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.7.66.apk"
+    "versionCode":  143,
+    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.7.67.apk"
 }
