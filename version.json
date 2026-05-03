@@ -1,8 +1,8 @@
 {
     "lastUpdated":  "2026-05-03",
-    "version":  "1.7.59",
-    "releaseNotes":  "v1.7.59 - Username system, email verification, chat backup",
+    "version":  "1.7.60",
+    "releaseNotes":  "v1.7.60 - Crash fix, email UI, keyboard, labels, backup restore",
     "buildType":  "release",
-    "versionCode":  135,
-    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.7.59.apk"
+    "versionCode":  136,
+    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.7.60.apk"
 }
