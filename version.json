@@ -1,8 +1,8 @@
 {
-    "lastUpdated":  "2026-05-02",
-    "version":  "1.7.57",
-    "releaseNotes":  "v1.7.57 - Fix: only show connected BT devices (not all paired)",
+    "lastUpdated":  "2026-05-03",
+    "version":  "1.7.58",
+    "releaseNotes":  "v1.7.58 - BT routing: follows answering device, no auto-routing",
     "buildType":  "release",
-    "versionCode":  133,
-    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.7.57.apk"
+    "versionCode":  134,
+    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.7.58.apk"
 }
