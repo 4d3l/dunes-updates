@@ -1,8 +1,8 @@
 {
     "lastUpdated":  "2026-05-03",
-    "version":  "1.7.64",
-    "releaseNotes":  "v1.7.64 - Email/username state persist, username search",
+    "version":  "1.7.65",
+    "releaseNotes":  "v1.7.65 - Remove backup/restore, version fix",
     "buildType":  "release",
-    "versionCode":  140,
-    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.7.64.apk"
+    "versionCode":  141,
+    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.7.65.apk"
 }
