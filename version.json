@@ -1,8 +1,8 @@
 {
-    "lastUpdated":  "2026-05-04",
-    "version":  "1.7.68",
-    "releaseNotes":  "v1.7.68 - Sand IDs (100M capacity), BT car audio fix, username search fix, Settings redesign",
+    "lastUpdated":  "2026-05-05",
+    "version":  "1.7.69",
+    "releaseNotes":  "v1.7.69 - FAB fix, sand ID assignment, void cleanup",
     "buildType":  "release",
-    "versionCode":  144,
-    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.7.68.apk"
+    "versionCode":  145,
+    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.7.69.apk"
 }
