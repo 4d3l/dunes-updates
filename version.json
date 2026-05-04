@@ -1,8 +1,8 @@
 {
     "lastUpdated":  "2026-05-05",
-    "version":  "1.7.70",
-    "releaseNotes":  "v1.7.70 - Sand ID display, FAB fix, version sync",
+    "version":  "1.7.71",
+    "releaseNotes":  "v1.7.71 - Contact request notifications, Dunes logo in modals, version sync",
     "buildType":  "release",
-    "versionCode":  146,
-    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.7.70.apk"
+    "versionCode":  147,
+    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.7.71.apk"
 }
