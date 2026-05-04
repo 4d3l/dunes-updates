@@ -1,8 +1,8 @@
 {
     "lastUpdated":  "2026-05-04",
-    "version":  "1.7.67",
-    "releaseNotes":  "v1.7.67 - Dunes themed modals, email transfer, raised keyboard modals",
+    "version":  "1.7.68",
+    "releaseNotes":  "v1.7.68 - Sand IDs (100M capacity), BT car audio fix, username search fix, Settings redesign",
     "buildType":  "release",
-    "versionCode":  143,
-    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.7.67.apk"
+    "versionCode":  144,
+    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.7.68.apk"
 }
