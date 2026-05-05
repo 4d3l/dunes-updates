@@ -1,8 +1,8 @@
 {
-    "lastUpdated":  "2026-05-05",
-    "version":  "1.7.71",
-    "releaseNotes":  "v1.7.71 - Contact request notifications, Dunes logo in modals, version sync",
+    "lastUpdated":  "2026-05-06",
+    "version":  "1.7.72",
+    "releaseNotes":  "v1.7.72 - BT call/echo fix, unread badges, QR notification, username sync, void cleanup",
     "buildType":  "release",
-    "versionCode":  147,
-    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.7.71.apk"
+    "versionCode":  148,
+    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.7.72.apk"
 }
