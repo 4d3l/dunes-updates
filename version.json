@@ -1,8 +1,8 @@
 {
     "lastUpdated":  "2026-05-06",
-    "version":  "1.7.74",
-    "releaseNotes":  "v1.7.74 - BT/Phone Link restored, username release sync, icon fix, modal +5, fresh bundle",
+    "version":  "1.7.75",
+    "releaseNotes":  "v1.7.75 - Live username sync, modals raised, input placeholder fix",
     "buildType":  "release",
-    "versionCode":  150,
-    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.7.74.apk"
+    "versionCode":  151,
+    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.7.75.apk"
 }
