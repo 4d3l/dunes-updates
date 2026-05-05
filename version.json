@@ -1,8 +1,8 @@
 {
     "lastUpdated":  "2026-05-06",
-    "version":  "1.7.72",
-    "releaseNotes":  "v1.7.72 - BT call/echo fix, unread badges, QR notification, username sync, void cleanup",
+    "version":  "1.7.73",
+    "releaseNotes":  "v1.7.73 - Fix release username, DunesAlert theme, Phone Link compat, modal positioning, new icon",
     "buildType":  "release",
-    "versionCode":  148,
-    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.7.72.apk"
+    "versionCode":  149,
+    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.7.73.apk"
 }
