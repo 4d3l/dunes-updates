@@ -1,8 +1,8 @@
 {
     "lastUpdated":  "2026-05-07",
-    "version":  "1.7.76",
-    "releaseNotes":  "v1.7.76 - Instant username sync, lock screen call fix, sand ID on home, modal adjustments",
+    "version":  "1.7.77",
+    "releaseNotes":  "v1.7.77 - Cache cleanup (400MB fix), modals raised, notification repositioned",
     "buildType":  "release",
-    "versionCode":  152,
-    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.7.76.apk"
+    "versionCode":  153,
+    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.7.77.apk"
 }
