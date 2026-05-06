@@ -1,8 +1,8 @@
 {
-    "lastUpdated":  "2026-05-06",
-    "version":  "1.7.75",
-    "releaseNotes":  "v1.7.75 - Live username sync, modals raised, input placeholder fix",
+    "lastUpdated":  "2026-05-07",
+    "version":  "1.7.76",
+    "releaseNotes":  "v1.7.76 - Instant username sync, lock screen call fix, sand ID on home, modal adjustments",
     "buildType":  "release",
-    "versionCode":  151,
-    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.7.75.apk"
+    "versionCode":  152,
+    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.7.76.apk"
 }
