@@ -1,8 +1,8 @@
 {
     "lastUpdated":  "2026-05-08",
-    "version":  "1.7.80",
-    "releaseNotes":  "v1.7.80 - Top-right options menu, full block enforcement, orange icons, call unreads excluded",
+    "version":  "1.7.81",
+    "releaseNotes":  "v1.7.81 - Blocked users show @username, search dismiss fix, grey icons, QR orange only",
     "buildType":  "release",
-    "versionCode":  156,
-    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.7.80.apk"
+    "versionCode":  157,
+    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.7.81.apk"
 }
