@@ -1,8 +1,8 @@
 {
-    "lastUpdated":  "2026-05-07",
-    "version":  "1.7.79",
-    "releaseNotes":  "v1.7.79 - Search dismiss, blocked user banner, disabled input, blocked users modal",
+    "lastUpdated":  "2026-05-08",
+    "version":  "1.7.80",
+    "releaseNotes":  "v1.7.80 - Top-right options menu, full block enforcement, orange icons, call unreads excluded",
     "buildType":  "release",
-    "versionCode":  155,
-    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.7.79.apk"
+    "versionCode":  156,
+    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.7.80.apk"
 }
