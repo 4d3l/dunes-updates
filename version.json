@@ -1,8 +1,8 @@
 {
-    "lastUpdated":  "2026-05-08",
-    "version":  "1.7.81",
-    "releaseNotes":  "v1.7.81 - Blocked users show @username, search dismiss fix, grey icons, QR orange only",
+    "lastUpdated":  "2026-05-10",
+    "version":  "1.7.82",
+    "releaseNotes":  "v1.7.82 - Fix BT echo on car speakers, fix infotainment call display dropping after 2-3s",
     "buildType":  "release",
-    "versionCode":  157,
-    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.7.81.apk"
+    "versionCode":  158,
+    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.7.82.apk"
 }
