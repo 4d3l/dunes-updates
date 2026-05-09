@@ -1,8 +1,8 @@
 {
     "lastUpdated":  "2026-05-10",
-    "version":  "1.7.92",
-    "releaseNotes":  "v1.7.92 - Revert connection teardown to match v1.7.58.",
+    "version":  "1.7.93",
+    "releaseNotes":  "v1.7.93 - Restore v1.7.53 audio routing logic while preserving the UI picker.",
     "buildType":  "release",
-    "versionCode":  168,
-    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.7.92.apk"
+    "versionCode":  169,
+    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.7.93.apk"
 }
