@@ -1,8 +1,8 @@
 {
     "lastUpdated":  "2026-05-10",
-    "version":  "1.7.95",
-    "releaseNotes":  "v1.7.95 - Fix Phone Link flash and crash.",
+    "version":  "1.7.96",
+    "releaseNotes":  "v1.7.96 - Full revert to v1.7.83 stable baseline.",
     "buildType":  "release",
-    "versionCode":  171,
-    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.7.95.apk"
+    "versionCode":  172,
+    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.7.96.apk"
 }
