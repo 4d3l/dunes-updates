@@ -1,8 +1,8 @@
 {
     "lastUpdated":  "2026-05-10",
-    "version":  "1.7.93",
-    "releaseNotes":  "v1.7.93 - Restore v1.7.53 audio routing logic while preserving the UI picker.",
+    "version":  "1.7.94",
+    "releaseNotes":  "v1.7.94 - Restore v1.7.49 Bluetooth auto-routing on call start.",
     "buildType":  "release",
-    "versionCode":  169,
-    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.7.93.apk"
+    "versionCode":  170,
+    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.7.94.apk"
 }
