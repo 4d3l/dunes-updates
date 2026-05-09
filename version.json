@@ -1,8 +1,8 @@
 {
     "lastUpdated":  "2026-05-10",
-    "version":  "1.7.91",
-    "releaseNotes":  "v1.7.91 - Rename ACCOUNT_ID to force Android to clear cached TelecomManager capabilities.",
+    "version":  "1.7.92",
+    "releaseNotes":  "v1.7.92 - Revert connection teardown to match v1.7.58.",
     "buildType":  "release",
-    "versionCode":  167,
-    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.7.91.apk"
+    "versionCode":  168,
+    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.7.92.apk"
 }
