@@ -1,8 +1,8 @@
 {
     "lastUpdated":  "2026-05-10",
-    "version":  "1.7.86",
-    "releaseNotes":  "v1.7.86 - Fix ConnectionService death, keep-alive FGS without PHONE_CALL type, skip Expo setSpeakerphoneOn on Android",
+    "version":  "1.7.87",
+    "releaseNotes":  "v1.7.87 - Switch to CALL_PROVIDER for full Phone Link and car infotainment control",
     "buildType":  "release",
-    "versionCode":  162,
-    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.7.86.apk"
+    "versionCode":  163,
+    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.7.87.apk"
 }
