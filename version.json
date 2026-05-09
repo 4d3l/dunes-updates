@@ -1,8 +1,8 @@
 {
     "lastUpdated":  "2026-05-10",
-    "version":  "1.7.84",
-    "releaseNotes":  "v1.7.84 - Fix BT/infotainment/Phone Link: stop killing TelecomManager BT routing on call connect",
+    "version":  "1.7.85",
+    "releaseNotes":  "v1.7.85 - Delegate audio routing to TelecomManager, restore audio picker with BT device list",
     "buildType":  "release",
-    "versionCode":  160,
-    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.7.84.apk"
+    "versionCode":  161,
+    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.7.85.apk"
 }
