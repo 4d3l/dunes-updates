@@ -1,8 +1,8 @@
 {
     "lastUpdated":  "2026-05-10",
-    "version":  "1.7.87",
-    "releaseNotes":  "v1.7.87 - Switch to CALL_PROVIDER for full Phone Link and car infotainment control",
+    "version":  "1.7.88",
+    "releaseNotes":  "v1.7.88 - Revert to SELF_MANAGED, fix routing stability",
     "buildType":  "release",
-    "versionCode":  163,
-    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.7.87.apk"
+    "versionCode":  164,
+    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.7.88.apk"
 }
