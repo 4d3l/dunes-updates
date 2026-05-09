@@ -1,8 +1,8 @@
 {
     "lastUpdated":  "2026-05-10",
-    "version":  "1.7.90",
-    "releaseNotes":  "v1.7.90 - Remove duplicate registerPhoneAccount during active calls",
+    "version":  "1.7.91",
+    "releaseNotes":  "v1.7.91 - Rename ACCOUNT_ID to force Android to clear cached TelecomManager capabilities.",
     "buildType":  "release",
-    "versionCode":  166,
-    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.7.90.apk"
+    "versionCode":  167,
+    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.7.91.apk"
 }
