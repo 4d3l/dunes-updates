@@ -1,8 +1,8 @@
 {
     "lastUpdated":  "2026-05-10",
-    "version":  "1.7.89",
-    "releaseNotes":  "v1.7.89 - Remove SCHEME_TEL to restore Phone Link generic VoIP routing compatibility",
+    "version":  "1.7.90",
+    "releaseNotes":  "v1.7.90 - Remove duplicate registerPhoneAccount during active calls",
     "buildType":  "release",
-    "versionCode":  165,
-    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.7.89.apk"
+    "versionCode":  166,
+    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.7.90.apk"
 }
