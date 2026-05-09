@@ -1,8 +1,8 @@
 {
     "lastUpdated":  "2026-05-10",
-    "version":  "1.7.82",
-    "releaseNotes":  "v1.7.82 - Fix BT echo on car speakers, fix infotainment call display dropping after 2-3s",
+    "version":  "1.7.83",
+    "releaseNotes":  "v1.7.83 - Fix BT infotainment dropping after first call, stale connection cleanup, PhoneAccount re-registration",
     "buildType":  "release",
-    "versionCode":  158,
-    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.7.82.apk"
+    "versionCode":  159,
+    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.7.83.apk"
 }
