@@ -1,8 +1,8 @@
 {
     "lastUpdated":  "2026-05-10",
-    "version":  "1.7.94",
-    "releaseNotes":  "v1.7.94 - Restore v1.7.49 Bluetooth auto-routing on call start.",
+    "version":  "1.7.95",
+    "releaseNotes":  "v1.7.95 - Fix Phone Link flash and crash.",
     "buildType":  "release",
-    "versionCode":  170,
-    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.7.94.apk"
+    "versionCode":  171,
+    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.7.95.apk"
 }
