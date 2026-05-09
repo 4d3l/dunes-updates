@@ -1,8 +1,8 @@
 {
     "lastUpdated":  "2026-05-10",
-    "version":  "1.7.83",
-    "releaseNotes":  "v1.7.83 - Fix BT infotainment dropping after first call, stale connection cleanup, PhoneAccount re-registration",
+    "version":  "1.7.84",
+    "releaseNotes":  "v1.7.84 - Fix BT/infotainment/Phone Link: stop killing TelecomManager BT routing on call connect",
     "buildType":  "release",
-    "versionCode":  159,
-    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.7.83.apk"
+    "versionCode":  160,
+    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.7.84.apk"
 }
