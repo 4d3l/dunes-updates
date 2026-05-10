@@ -1,8 +1,8 @@
 {
     "lastUpdated":  "2026-05-10",
-    "version":  "1.7.98",
-    "releaseNotes":  "v1.7.98 - Fix infotainment accept, mic on screen lock, caller ID display.",
+    "version":  "1.7.99",
+    "releaseNotes":  "v1.7.99 - Fix mic muted on screen lock (AppOps attribution tag).",
     "buildType":  "release",
-    "versionCode":  174,
-    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.7.98.apk"
+    "versionCode":  175,
+    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.7.99.apk"
 }
