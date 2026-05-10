@@ -1,8 +1,8 @@
 {
     "lastUpdated":  "2026-05-10",
-    "version":  "1.7.97",
-    "releaseNotes":  "v1.7.97 - Fix car BT/Phone Link: TBS-compatible URI + remove forced earpiece on mount.",
+    "version":  "1.7.98",
+    "releaseNotes":  "v1.7.98 - Fix infotainment accept, mic on screen lock, caller ID display.",
     "buildType":  "release",
-    "versionCode":  173,
-    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.7.97.apk"
+    "versionCode":  174,
+    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.7.98.apk"
 }
