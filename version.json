@@ -1,8 +1,8 @@
 {
     "lastUpdated":  "2026-05-10",
-    "version":  "1.8.1",
-    "releaseNotes":  "v1.8.1 - Fix call disconnect on screen lock (remove competing FGS mic type).",
+    "version":  "1.8.2",
+    "releaseNotes":  "v1.8.2 - Fix mic muted on screen lock (WebRTC attribution context fix).",
     "buildType":  "release",
-    "versionCode":  177,
-    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.8.1.apk"
+    "versionCode":  178,
+    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.8.2.apk"
 }
