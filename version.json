@@ -1,8 +1,8 @@
 {
     "lastUpdated":  "2026-05-10",
-    "version":  "1.8.2",
-    "releaseNotes":  "v1.8.2 - Fix mic muted on screen lock (WebRTC attribution context fix).",
+    "version":  "1.8.7",
+    "releaseNotes":  "v1.8.7 - Video calling: camera toggle, flip camera, PiP minimize. Zero data when camera off.",
     "buildType":  "release",
-    "versionCode":  178,
-    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.8.2.apk"
+    "versionCode":  183,
+    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.8.7.apk"
 }
