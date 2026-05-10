@@ -1,8 +1,8 @@
 {
     "lastUpdated":  "2026-05-10",
-    "version":  "1.7.99",
-    "releaseNotes":  "v1.7.99 - Fix mic muted on screen lock (AppOps attribution tag).",
+    "version":  "1.8.0",
+    "releaseNotes":  "v1.8.0 - Fix mic on screen lock (attribution tag + FGS microphone type).",
     "buildType":  "release",
-    "versionCode":  175,
-    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.7.99.apk"
+    "versionCode":  176,
+    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.8.0.apk"
 }
