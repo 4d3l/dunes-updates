@@ -1,8 +1,8 @@
 {
     "lastUpdated":  "2026-05-12",
-    "version":  "1.9.4",
-    "releaseNotes":  "v1.9.4 - Fix call_video_state signal routing (was never reaching receiver). Remove Flip from control bar; add as floating overlay on video.",
+    "version":  "1.9.5",
+    "releaseNotes":  "v1.9.5 - Fix controls bar position shift on camera toggle. Re-sync video state on ICE reconnect so peer always sees your camera.",
     "buildType":  "release",
-    "versionCode":  190,
-    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.9.4.apk"
+    "versionCode":  191,
+    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.9.5.apk"
 }
