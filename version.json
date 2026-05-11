@@ -1,8 +1,8 @@
 {
     "lastUpdated":  "2026-05-12",
-    "version":  "1.9.6",
-    "releaseNotes":  "v1.9.6 - Fix avatar overlapping controls bar. Local camera now always shows as small pip (never full screen); remote camera fills background.",
+    "version":  "1.9.7",
+    "releaseNotes":  "v1.9.7 - Avatar placed just below status text. Self-view pip moved to bottom-right above controls. Remote video auto-detects via RTP mute/unmute events.",
     "buildType":  "release",
-    "versionCode":  192,
-    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.9.6.apk"
+    "versionCode":  193,
+    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.9.7.apk"
 }
