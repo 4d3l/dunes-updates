@@ -1,8 +1,8 @@
 {
     "lastUpdated":  "2026-05-11",
-    "version":  "1.9.1",
-    "releaseNotes":  "v1.9.1 - Remove PiP automation (was causing black screen + call starts minimized). Pip is in-app only, positioned bottom-right. No enterPipMode on AppState.",
+    "version":  "1.9.2",
+    "releaseNotes":  "v1.9.2 - Fix black screen: ontrack no longer auto-enables video (only call_video_state signal does). Fix back button trapping app exit during calls.",
     "buildType":  "release",
-    "versionCode":  187,
-    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.9.1.apk"
+    "versionCode":  188,
+    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.9.2.apk"
 }
