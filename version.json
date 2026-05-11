@@ -1,8 +1,8 @@
 {
     "lastUpdated":  "2026-05-11",
-    "version":  "1.8.8",
-    "releaseNotes":  "v1.8.8 - BT picker fix, incoming call screen fix, +25px buttons, frozen frame fix, JS floating PiP, home button PiP, screen awake on video, 480p+500kbps cap.",
+    "version":  "1.8.9",
+    "releaseNotes":  "v1.8.9 - Container video approach: frozen frame fix, incoming screen fix, minimize PiP fix, home-button PiP fix.",
     "buildType":  "release",
-    "versionCode":  184,
-    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.8.8.apk"
+    "versionCode":  185,
+    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.8.9.apk"
 }
