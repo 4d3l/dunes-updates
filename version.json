@@ -1,8 +1,8 @@
 {
-    "lastUpdated":  "2026-05-11",
-    "version":  "1.9.2",
-    "releaseNotes":  "v1.9.2 - Fix black screen: ontrack no longer auto-enables video (only call_video_state signal does). Fix back button trapping app exit during calls.",
+    "lastUpdated":  "2026-05-12",
+    "version":  "1.9.3",
+    "releaseNotes":  "v1.9.3 - Fix remote video disappears after cam toggle (stream ref preserved). Fix controls shift when Flip appears. Fix floating pip shows own cam when remote cam off.",
     "buildType":  "release",
-    "versionCode":  188,
-    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.9.2.apk"
+    "versionCode":  189,
+    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.9.3.apk"
 }
