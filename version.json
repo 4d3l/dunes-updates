@@ -1,8 +1,8 @@
 {
     "lastUpdated":  "2026-05-12",
-    "version":  "1.9.5",
-    "releaseNotes":  "v1.9.5 - Fix controls bar position shift on camera toggle. Re-sync video state on ICE reconnect so peer always sees your camera.",
+    "version":  "1.9.6",
+    "releaseNotes":  "v1.9.6 - Fix avatar overlapping controls bar. Local camera now always shows as small pip (never full screen); remote camera fills background.",
     "buildType":  "release",
-    "versionCode":  191,
-    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.9.5.apk"
+    "versionCode":  192,
+    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.9.6.apk"
 }
