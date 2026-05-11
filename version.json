@@ -1,8 +1,8 @@
 {
     "lastUpdated":  "2026-05-11",
-    "version":  "1.8.9",
-    "releaseNotes":  "v1.8.9 - Container video approach: frozen frame fix, incoming screen fix, minimize PiP fix, home-button PiP fix.",
+    "version":  "1.9.0",
+    "releaseNotes":  "v1.9.0 - Fix floating pip blocks chat (Modal to View), fix black screen incoming, fix frozen frame (150ms unmount), fix screen always on, fix proximity sensor, native PiP via onPictureInPictureModeChanged.",
     "buildType":  "release",
-    "versionCode":  185,
-    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.8.9.apk"
+    "versionCode":  186,
+    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.9.0.apk"
 }
