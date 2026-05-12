@@ -1,8 +1,8 @@
 {
     "lastUpdated":  "2026-05-12",
-    "version":  "1.9.8",
-    "releaseNotes":  "v1.9.8 - No black screen on calling/ringing. Draggable self-view pip. Flip+pip raised. Answer/decline raised. Speaker auto-on with camera.",
+    "version":  "1.9.9",
+    "releaseNotes":  "v1.9.9 - Fix draggable pip position (was off-screen). Screen stays on when either party has camera on.",
     "buildType":  "release",
-    "versionCode":  194,
-    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.9.8.apk"
+    "versionCode":  195,
+    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.9.9.apk"
 }
