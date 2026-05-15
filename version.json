@@ -1,8 +1,8 @@
 {
     "lastUpdated":  "2026-05-15",
-    "version":  "1.10.6",
-    "releaseNotes":  "v1.10.6 - ADB logging added to ring silence (tag: DunesKey). Chevron bigger + top-right corner.",
+    "version":  "1.10.7",
+    "releaseNotes":  "v1.10.7 - Ring silence FIXED via Connection.onSilence() — the official TelecomManager hardware key callback.",
     "buildType":  "release",
-    "versionCode":  202,
-    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.10.6.apk"
+    "versionCode":  203,
+    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.10.7.apk"
 }
