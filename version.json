@@ -1,8 +1,8 @@
 {
     "lastUpdated":  "2026-05-15",
-    "version":  "1.10.3",
-    "releaseNotes":  "v1.10.3 - Ring silence: uses AudioManager polling (works all OEMs). Larger picker chevron.",
+    "version":  "1.10.4",
+    "releaseNotes":  "v1.10.4 - Codebase cleanup: removed failed ring-silence attempts. Audio picker chevron now transparent, top-right, larger.",
     "buildType":  "release",
-    "versionCode":  199,
-    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.10.3.apk"
+    "versionCode":  200,
+    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.10.4.apk"
 }
