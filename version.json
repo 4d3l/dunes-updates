@@ -1,8 +1,8 @@
 {
-    "lastUpdated":  "2026-05-12",
-    "version":  "1.10.0",
-    "releaseNotes":  "v1.10.0 - Floating minimized pip is now draggable (tap to expand, drag to move). Settings shows version + build number.",
+    "lastUpdated":  "2026-05-15",
+    "version":  "1.10.1",
+    "releaseNotes":  "v1.10.1 - Volume/power buttons silence incoming ring without declining. Speaker icon fix.",
     "buildType":  "release",
-    "versionCode":  196,
-    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.10.0.apk"
+    "versionCode":  197,
+    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.10.1.apk"
 }
