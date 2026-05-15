@@ -1,8 +1,8 @@
 {
     "lastUpdated":  "2026-05-15",
-    "version":  "1.10.4",
-    "releaseNotes":  "v1.10.4 - Codebase cleanup: removed failed ring-silence attempts. Audio picker chevron now transparent, top-right, larger.",
+    "version":  "1.10.5",
+    "releaseNotes":  "v1.10.5 - Ring silence: volumeControlStream + ADJUST_MUTE. Speaker icon always shown, highlight when active.",
     "buildType":  "release",
-    "versionCode":  200,
-    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.10.4.apk"
+    "versionCode":  201,
+    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.10.5.apk"
 }
