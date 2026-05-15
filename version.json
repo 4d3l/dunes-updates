@@ -1,8 +1,8 @@
 {
     "lastUpdated":  "2026-05-15",
-    "version":  "1.10.1",
-    "releaseNotes":  "v1.10.1 - Volume/power buttons silence incoming ring without declining. Speaker icon fix.",
+    "version":  "1.10.2",
+    "releaseNotes":  "v1.10.2 - Volume/power buttons now silence incoming ring. Audio picker shows chevron. Speaker icon fix.",
     "buildType":  "release",
-    "versionCode":  197,
-    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.10.1.apk"
+    "versionCode":  198,
+    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.10.2.apk"
 }
