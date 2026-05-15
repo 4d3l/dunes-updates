@@ -1,8 +1,8 @@
 {
     "lastUpdated":  "2026-05-15",
-    "version":  "1.10.5",
-    "releaseNotes":  "v1.10.5 - Ring silence: volumeControlStream + ADJUST_MUTE. Speaker icon always shown, highlight when active.",
+    "version":  "1.10.6",
+    "releaseNotes":  "v1.10.6 - ADB logging added to ring silence (tag: DunesKey). Chevron bigger + top-right corner.",
     "buildType":  "release",
-    "versionCode":  201,
-    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.10.5.apk"
+    "versionCode":  202,
+    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.10.6.apk"
 }
