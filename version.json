@@ -1,8 +1,8 @@
 {
-    "lastUpdated":  "2026-05-15",
-    "version":  "1.10.7",
-    "releaseNotes":  "v1.10.7 - Ring silence FIXED via Connection.onSilence() — the official TelecomManager hardware key callback.",
+    "lastUpdated":  "2026-05-16",
+    "version":  "1.11.0",
+    "releaseNotes":  "v1.11.0 - Relay media transfers: E2E-encrypted file sharing via relay server, Telegram-style progress, auto-download on Wi-Fi, 72h TTL, storage management.",
     "buildType":  "release",
-    "versionCode":  203,
-    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.10.7.apk"
+    "versionCode":  204,
+    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.11.0.apk"
 }
