@@ -1,8 +1,8 @@
 {
     "lastUpdated":  "2026-05-16",
-    "version":  "1.11.0",
-    "releaseNotes":  "v1.11.0 - Relay media transfers: E2E-encrypted file sharing via relay server, Telegram-style progress, auto-download on Wi-Fi, 72h TTL, storage management.",
+    "version":  "1.11.1",
+    "releaseNotes":  "v1.11.1 - Bug fixes: FCM message persistence after restart, forward without re-compression, real voice waveform, audio bubble layout fix, online status accuracy.",
     "buildType":  "release",
-    "versionCode":  204,
-    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.11.0.apk"
+    "versionCode":  205,
+    "apkUrl":  "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.11.1.apk"
 }
