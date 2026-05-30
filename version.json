@@ -1,0 +1,8 @@
+{
+    "lastUpdated": "2026-05-31",
+    "version": "1.16.4",
+    "releaseNotes": "v1.16.4 - Fix alert button wrapping, themed call notification prompt, consent button overlap, icon cache",
+    "buildType": "release",
+    "versionCode": 223,
+    "apkUrl": "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.16.4.apk"
+}
