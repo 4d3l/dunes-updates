@@ -1,8 +1,8 @@
 {
     "lastUpdated": "2026-06-07",
-    "version": "1.16.6",
-    "releaseNotes": "v1.16.6 - Message reactions (long-press to react with any emoji, tap pills to toggle), sand dissolve delete animation, unused import cleanup",
+    "version": "1.16.7",
+    "releaseNotes": "v1.16.7 - Single-tap reaction popup (7 quick emojis + expander), 1 reaction per user limit, emoji button in input bar, improved sand dissolve animation (smaller particles, no flash-back), flexible @search in contacts",
     "buildType": "release",
-    "versionCode": 225,
-    "apkUrl": "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.16.6.apk"
+    "versionCode": 226,
+    "apkUrl": "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.16.7.apk"
 }
