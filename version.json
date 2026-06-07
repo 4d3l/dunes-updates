@@ -1,8 +1,8 @@
 {
-    "lastUpdated": "2026-05-31",
-    "version": "1.16.4",
-    "releaseNotes": "v1.16.4 - Fix alert button wrapping, themed call notification prompt, consent button overlap, icon cache",
+    "lastUpdated": "2026-06-07",
+    "version": "1.16.5",
+    "releaseNotes": "v1.16.5 - Improved call stability: ICE reconnect survives WiFi↔4G handoff (15s window), per-call guard fixes redial corruption, 2s cooldown prevents rapid re-call races, glare resolution hardened, relay auto-reconnects after call ends",
     "buildType": "release",
-    "versionCode": 223,
-    "apkUrl": "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.16.4.apk"
+    "versionCode": 224,
+    "apkUrl": "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.16.5.apk"
 }
