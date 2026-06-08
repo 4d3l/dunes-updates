@@ -1,8 +1,8 @@
 {
-    "lastUpdated": "2026-06-07",
-    "version": "1.16.7",
-    "releaseNotes": "v1.16.7 - Single-tap reaction popup (7 quick emojis + expander), 1 reaction per user limit, emoji button in input bar, improved sand dissolve animation (smaller particles, no flash-back), flexible @search in contacts",
+    "lastUpdated": "2026-06-08",
+    "version": "1.16.8",
+    "releaseNotes": "v1.16.8 - Fix relay reconnect loop (headless reaction handler), unified Telegram-style reaction pills, 2400 sand particles constrained to bubble, username search works by name or sand ID, removed @ symbol everywhere",
     "buildType": "release",
-    "versionCode": 226,
-    "apkUrl": "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.16.7.apk"
+    "versionCode": 227,
+    "apkUrl": "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.16.8.apk"
 }
