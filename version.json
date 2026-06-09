@@ -1,8 +1,8 @@
 {
-    "lastUpdated": "2026-06-08",
-    "version": "1.16.9",
-    "releaseNotes": "v1.16.9 - Smoother sand dissolve (150 Reanimated particles), static reaction pills (no re-animation), reactions inside bubble footer, long-press menu includes reactions + emoji picker, increased bubble spacing",
+    "lastUpdated": "2026-06-09",
+    "version": "1.17.0",
+    "releaseNotes": "v1.17.0 - Live reaction updates (extraData fix), unified bubble footer (reactions left + timestamp right), simple fade-out dissolve (no particles)",
     "buildType": "release",
-    "versionCode": 228,
-    "apkUrl": "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.16.9.apk"
+    "versionCode": 229,
+    "apkUrl": "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.17.0.apk"
 }
