@@ -1,8 +1,8 @@
 {
     "lastUpdated": "2026-06-09",
-    "version": "1.17.1",
-    "releaseNotes": "v1.17.1 - Text bubble footer outside, emoji button orange, removed Skia (~10MB smaller)",
+    "version": "1.17.2",
+    "releaseNotes": "v1.17.2 - Desert chat background, fixed reaction pill layout, emoji button orange",
     "buildType": "release",
-    "versionCode": 230,
-    "apkUrl": "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.17.1.apk"
+    "versionCode": 231,
+    "apkUrl": "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.17.2.apk"
 }
