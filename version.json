@@ -1,8 +1,8 @@
 {
     "lastUpdated": "2026-06-09",
-    "version": "1.17.0",
-    "releaseNotes": "v1.17.0 - Live reaction updates (extraData fix), unified bubble footer (reactions left + timestamp right), simple fade-out dissolve (no particles)",
+    "version": "1.17.1",
+    "releaseNotes": "v1.17.1 - Text bubble footer outside, emoji button orange, removed Skia (~10MB smaller)",
     "buildType": "release",
-    "versionCode": 229,
-    "apkUrl": "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.17.0.apk"
+    "versionCode": 230,
+    "apkUrl": "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.17.1.apk"
 }
