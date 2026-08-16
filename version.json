@@ -1,8 +1,10 @@
 {
-    "lastUpdated": "2026-06-09",
-    "version": "1.17.2",
-    "releaseNotes": "v1.17.2 - Desert chat background, fixed reaction pill layout, emoji button orange",
+    "lastUpdated": "2026-08-16",
+    "version": "1.18.0",
+    "releaseNotes": "IMPORTANT: Dunes has moved to a new app package, so this update installs as a NEW app with a new icon - your old Dunes stays until you remove it. After installing: 1) Open the NEW Dunes (you get a fresh ID), 2) If you have an @username, release it in the OLD app's Settings first, then claim it in the new app, 3) Re-add your contacts and share your new ID, 4) Uninstall the old Dunes. What's new: complete call reliability overhaul (no more dropped, ghost, or self-cancelling calls), remote video shows reliably, blocking works fully, messages never vanish, cancellable transfers, image previews, faster large-file sends, security hardening.",
     "buildType": "release",
-    "versionCode": 231,
-    "apkUrl": "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.17.2.apk"
+    "versionCode": 232,
+    "apkUrl": "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.18.0.apk",
+    "size": 68857280,
+    "md5": "50a531b3da94601581eb13d7f7067d38"
 }
