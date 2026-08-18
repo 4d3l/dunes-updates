@@ -1,10 +1,10 @@
 {
-    "lastUpdated": "2026-08-16",
-    "version": "1.18.2",
-    "releaseNotes": "v1.18.2: major call reliability release, tested live on real devices. Calls to sleeping/locked phones now ring reliably; no more false busy; crash fixes for call cancel and video; ghost calls and stale call notifications eliminated; answering is instant and clean. (Updating from the OLD Dunes app? This installs as a NEW app: open it, release your @username from the old app's Settings first if you have one, re-add your contacts, then uninstall the old Dunes.)",
+    "lastUpdated": "2026-08-19",
+    "version": "1.19.0",
+    "releaseNotes": "v1.19.0: the big features release. Profiles: add a photo, bio and social links — end-to-end encrypted, visible only to your contacts. Share your location as a pin or LIVE for 15–120 minutes (works in background). Share contacts with a one-tap Add button. Shared checklists you both can edit together. Tag any message — photos, voice notes, locations — with your own labels. New QR invite links: scanning with any camera opens Dunes (or the download page). Redesigned Telegram-style settings, bigger voice recorder with wave effects, smoother and faster chats, and more reliable reconnection on flaky networks.",
     "buildType": "release",
-    "versionCode": 234,
-    "apkUrl": "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.18.2.apk",
-    "size": 68862372,
-    "md5": "fbf00e60e45563430a0fe78aa2e8d2bd"
+    "versionCode": 235,
+    "apkUrl": "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.19.0.apk",
+    "size": 68986847,
+    "md5": "3cdad1f2fcfebafbcddf6aff9e2b63de"
 }
