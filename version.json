@@ -1,10 +1,10 @@
 {
-    "lastUpdated": "2026-08-19",
-    "version": "1.19.0",
-    "releaseNotes": "v1.19.0: the big features release. Profiles: add a photo, bio and social links — end-to-end encrypted, visible only to your contacts. Share your location as a pin or LIVE for 15–120 minutes (works in background). Share contacts with a one-tap Add button. Shared checklists you both can edit together. Tag any message — photos, voice notes, locations — with your own labels. New QR invite links: scanning with any camera opens Dunes (or the download page). Redesigned Telegram-style settings, bigger voice recorder with wave effects, smoother and faster chats, and more reliable reconnection on flaky networks.",
+    "lastUpdated": "2026-08-21",
+    "version": "1.20.0",
+    "releaseNotes": "v1.20.0: the reliability release. File and voice-note delivery rebuilt to be bulletproof: transfers auto-retry through network blips, recover after app restarts, and keep re-sending until they arrive — even if the other phone sleeps for days. Big files up to 50MB now send smoothly without freezing the app. New fullscreen video player with tap-to-show controls, 10-second skips and a draggable seek bar. Voice recorder waves now dance with your voice in a bigger, livelier animation. Failed transfers show a clear tap-to-retry, unplayable audio says so, and deleted messages can no longer reappear.",
     "buildType": "release",
-    "versionCode": 235,
-    "apkUrl": "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.19.0.apk",
-    "size": 68986847,
-    "md5": "3cdad1f2fcfebafbcddf6aff9e2b63de"
+    "versionCode": 236,
+    "apkUrl": "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.20.0.apk",
+    "size": 69368559,
+    "md5": "9fb96a46f58702f3f170a87e87cdcc7c"
 }
