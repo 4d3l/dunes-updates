@@ -1,10 +1,10 @@
 {
-    "lastUpdated": "2026-08-21",
-    "version": "1.20.0",
-    "releaseNotes": "v1.20.0: the reliability release. File and voice-note delivery rebuilt to be bulletproof: transfers auto-retry through network blips, recover after app restarts, and keep re-sending until they arrive — even if the other phone sleeps for days. Big files up to 50MB now send smoothly without freezing the app. New fullscreen video player with tap-to-show controls, 10-second skips and a draggable seek bar. Voice recorder waves now dance with your voice in a bigger, livelier animation. Failed transfers show a clear tap-to-retry, unplayable audio says so, and deleted messages can no longer reappear.",
+    "lastUpdated": "2026-08-22",
+    "version": "1.20.1",
+    "releaseNotes": "v1.20.1: honest ticks, everywhere. Delivery receipts (the two checkmarks) are now truthful and self-healing — they survive app restarts, network blips and sleeping phones, and stuck single-ticks repair themselves automatically. Transfers detect a frozen connection and retry on their own. Chats are always in perfect time order with new Today/Yesterday day separators. Fullscreen photo viewer with pinch-to-zoom and pan. Leave the app during a call and a floating picture-in-picture window keeps the call in view — tap to jump back in. Plus video call and player polish.",
     "buildType": "release",
-    "versionCode": 236,
-    "apkUrl": "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.20.0.apk",
-    "size": 69368559,
-    "md5": "9fb96a46f58702f3f170a87e87cdcc7c"
+    "versionCode": 237,
+    "apkUrl": "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.20.1.apk",
+    "size": 69377691,
+    "md5": "1fc6fd75e54cdaaf392acf3f6fd9e7db"
 }
