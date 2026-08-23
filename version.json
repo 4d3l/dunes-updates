@@ -1,10 +1,10 @@
 {
-    "lastUpdated": "2026-08-22",
-    "version": "1.20.1",
-    "releaseNotes": "v1.20.1: honest ticks, everywhere. Delivery receipts (the two checkmarks) are now truthful and self-healing — they survive app restarts, network blips and sleeping phones, and stuck single-ticks repair themselves automatically. Transfers detect a frozen connection and retry on their own. Chats are always in perfect time order with new Today/Yesterday day separators. Fullscreen photo viewer with pinch-to-zoom and pan. Leave the app during a call and a floating picture-in-picture window keeps the call in view — tap to jump back in. Plus video call and player polish.",
+    "lastUpdated": "2026-08-23",
+    "version": "1.21.0",
+    "releaseNotes": "v1.21.0: calls that survive network switches, and honest online status. Switching between Wi-Fi and mobile data during a call \u2014 even on both phones at once \u2014 now reconnects by design instead of by luck, and call signals are never lost while your connection is re-establishing. The green online dot now means exactly one thing: the person is actually in the app. Receiving a message in the background no longer shows you as online.",
     "buildType": "release",
-    "versionCode": 237,
-    "apkUrl": "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.20.1.apk",
-    "size": 69377691,
-    "md5": "1fc6fd75e54cdaaf392acf3f6fd9e7db"
+    "versionCode": 238,
+    "apkUrl": "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.21.0.apk",
+    "size": 69379535,
+    "md5": "6b7516e8c0cf672cde3b5d37fac561d8"
 }
