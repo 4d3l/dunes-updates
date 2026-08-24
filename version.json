@@ -1,10 +1,10 @@
 {
-    "lastUpdated": "2026-08-23",
-    "version": "1.21.0",
-    "releaseNotes": "v1.21.0: calls that survive network switches, and honest online status. Switching between Wi-Fi and mobile data during a call \u2014 even on both phones at once \u2014 now reconnects by design instead of by luck, and call signals are never lost while your connection is re-establishing. The green online dot now means exactly one thing: the person is actually in the app. Receiving a message in the background no longer shows you as online.",
+    "lastUpdated": "2026-08-25",
+    "version": "1.21.1",
+    "releaseNotes": "v1.21.1: your camera, inside Dunes. Take photos and record video without leaving the app \u2014 tap the shutter for a photo, hold it for video, with flash, aspect ratio (including true full-screen), and quality controls; preview with pinch-to-zoom, then send or retake. Sending media in the background is now rock solid: pocket your phone mid-upload and it finishes anyway. Recorded and sent videos are sharper. Edit your profile links in place. Dunes now tells you when an update is ready. Xiaomi owners get one-time setup guidance for reliable delivery.",
     "buildType": "release",
-    "versionCode": 238,
-    "apkUrl": "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.21.0.apk",
-    "size": 69379535,
-    "md5": "6b7516e8c0cf672cde3b5d37fac561d8"
+    "versionCode": 239,
+    "apkUrl": "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.21.1.apk",
+    "size": 69399495,
+    "md5": "580db2b2775c5b682506f723eac37354"
 }
