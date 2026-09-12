@@ -1,10 +1,10 @@
 {
-    "lastUpdated": "2026-08-30",
-    "version": "1.21.2",
-    "releaseNotes": "v1.21.2: call reliability under the hood. Calls now continuously monitor their own audio health, so rare issues like one side going quiet can be diagnosed and fixed fast. No visible changes \u2014 just sturdier calls.",
+    "lastUpdated": "2026-09-12",
+    "version": "1.21.3",
+    "releaseNotes": "v1.21.3: the call audio fix. Voice could go silent mid-call \u2014 in the car, on Bluetooth, sometimes on the earpiece \u2014 for you or the person you were talking to. Root cause found and fixed at the audio-driver level: your voice now bypasses the phone's built-in call processing that was muting it. Update on both ends for the full effect.",
     "buildType": "release",
-    "versionCode": 240,
-    "apkUrl": "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.21.2.apk",
-    "size": 69401339,
-    "md5": "feb1ec90266be9992621dbe7d3d03630"
+    "versionCode": 241,
+    "apkUrl": "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.21.3.apk",
+    "size": 69401827,
+    "md5": "925e54f391e6197294cd125d474d2c36"
 }
