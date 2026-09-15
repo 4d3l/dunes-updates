@@ -1,10 +1,10 @@
 {
-    "lastUpdated": "2026-09-12",
-    "version": "1.21.3",
-    "releaseNotes": "v1.21.3: the call audio fix. Voice could go silent mid-call \u2014 in the car, on Bluetooth, sometimes on the earpiece \u2014 for you or the person you were talking to. Root cause found and fixed at the audio-driver level: your voice now bypasses the phone's built-in call processing that was muting it. Update on both ends for the full effect.",
+    "lastUpdated": "2026-09-15",
+    "version": "1.21.4",
+    "releaseNotes": "v1.21.4: call cleanup and diagnostics. Hanging up now fully releases the microphone and audio session every time (a leftover session could interfere with the next call). New in Settings > About: Share Call Diagnostics \u2014 if a call ever goes quiet, send that file so it can be fixed fast.",
     "buildType": "release",
-    "versionCode": 241,
-    "apkUrl": "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.21.3.apk",
-    "size": 69401827,
-    "md5": "925e54f391e6197294cd125d474d2c36"
+    "versionCode": 242,
+    "apkUrl": "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.21.4.apk",
+    "size": 69405599,
+    "md5": "7da75b8fabd18b7eb7233a1a9414df2b"
 }
