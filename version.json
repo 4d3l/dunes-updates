@@ -1,10 +1,10 @@
 {
-    "lastUpdated": "2026-09-16",
-    "version": "1.21.5",
-    "releaseNotes": "v1.21.5: microphone stays alive on locked screens. On the newest Android versions, a call answered from the lock screen could lose its microphone protection, so your voice went silent whenever the screen locked until you unlocked it. Fixed.",
+    "lastUpdated": "2026-09-19",
+    "version": "1.21.6",
+    "releaseNotes": "v1.21.6: important reliability update. Fixed an issue on newer Android versions where Dunes could stop waking up for new messages and calls until you opened the app. Loudspeaker calls now use your phone's hardware echo cancellation, so the other side no longer hears themselves.",
     "buildType": "release",
-    "versionCode": 243,
-    "apkUrl": "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.21.5.apk",
-    "size": 69405595,
-    "md5": "8409e60d81b0a6a007facf94659cd6e2"
+    "versionCode": 244,
+    "apkUrl": "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.21.6.apk",
+    "size": 69405599,
+    "md5": "fdd3c451b2b424645d54328e7072f1bf"
 }
