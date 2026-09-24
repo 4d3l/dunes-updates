@@ -1,10 +1,10 @@
 {
-    "lastUpdated": "2026-09-19",
-    "version": "1.21.6",
-    "releaseNotes": "v1.21.6: important reliability update. Fixed an issue on newer Android versions where Dunes could stop waking up for new messages and calls until you opened the app. Loudspeaker calls now use your phone's hardware echo cancellation, so the other side no longer hears themselves.",
+    "lastUpdated": "2026-09-24",
+    "version": "1.21.7",
+    "releaseNotes": "v1.21.7: call audio update. Calls now use Android's standard voice-call audio path on every phone, so the other side no longer hears their own echo on loudspeaker or earpiece, and your voice comes through clearly. Please update — it improves calls for both you and the people you talk to.",
     "buildType": "release",
-    "versionCode": 244,
-    "apkUrl": "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.21.6.apk",
-    "size": 69405599,
-    "md5": "fdd3c451b2b424645d54328e7072f1bf"
+    "versionCode": 245,
+    "apkUrl": "https://raw.githubusercontent.com/4d3l/dunes-updates/main/dunes_v1.21.7.apk",
+    "size": 69405611,
+    "md5": "e06083106da5b568063d612fb71018eb"
 }
